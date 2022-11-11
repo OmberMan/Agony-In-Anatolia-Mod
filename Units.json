@@ -1,1 +1,0 @@
-[{"name":"Falx Warrior","unitType":"Melee","uniqueTo":"Dacia","replaces":"Swordsman","movement":2,"strength":15,"cost":75,"requiredTech":"Iron Working","upgradesTo":"Longswordsman","obsoleteTech":"Gunpowder","promotions":["Drill I","Formation I"],"hurryCostModifier":20,"attackSound":"metalhit"}]
