@@ -1,3 +1,3 @@
 # Agony-In-Anatolia-Mod
-I am drowning
-There is no sign of land
+
+It is nearly impossible to find defining traits of any pre-Hellenic Anatolian people's.
