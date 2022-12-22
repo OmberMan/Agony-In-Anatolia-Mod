@@ -1,0 +1,19 @@
+[
+{
+		"name": "Scythed Chariot",
+		"unitType": "Mounted",
+		"uniqueTo": "Pontus",
+		"replaces": "Chariot Archer",
+		"movement": 3,
+		"strength": 11,
+		"cost": 70,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["[+33]% Strength <vs [Sword] units> <when attacking>", "[+33]% Strength <vs [Archer] units> <when attacking>", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>"],
+		"promotions": ["Shock I"],
+    "hurryCostModifier": 25,
+		"attackSound": "horse"
+	},
+  ]
