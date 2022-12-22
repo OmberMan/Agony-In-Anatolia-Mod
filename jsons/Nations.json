@@ -1,8 +1,9 @@
 [
   {
-    "name":"Pontus",
+   "name":"Pontus",
    "adjective":"Pontic",
    "leaderName":"Mithradates IV",
+   "style": "Mediterranean",
    "preferredVictoryType":"Domination",
    "startBias":["Coast"],
    "declaringWar":"You absolute fucking idiot. I can't believe you fell for it. I wish I could see the look on your dumbass face right now.  \nYou just got Adriatic Vespered.",
