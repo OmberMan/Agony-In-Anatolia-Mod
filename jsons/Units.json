@@ -16,4 +16,19 @@
     "hurryCostModifier": 25,
 		"attackSound": "horse"
 	},
+{
+		"name": "Cappadocian Hillmen",
+		"unitType": "Sword",
+		"replaces": "Warrior",
+		"uniqueTo": "Pontus",
+		"movement": 2,
+		"strength": 9,
+		"cost": 40,
+		"requiredTech": "Agriculture",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"uniques": ["[+15]% Strength <after discovering [Iron Working]>"],
+                "promotions": ["Drill I"],
+		"attackSound": "metalhit"
+	},
   ]
