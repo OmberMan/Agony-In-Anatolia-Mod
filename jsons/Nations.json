@@ -9,7 +9,7 @@
    "declaringWar":"You absolute fucking idiot. I can't believe you fell for it. I wish I could see the look on your dumbass face right now.  \nYou just got Adriatic Vespered.",
    "attacked":"Nonono what? What insolence is this?  \nI'm chosen by the gods you freak shit. You're gonna regret this.",
    "defeated":"aahh yuor too late\n                  ohahhw\nno poisoncan get mno                       you stup\n   pioson I'm immune to every known to man\nno you no led isnt a poisouns you moron rance aa like lead im likincinible like lead im \n now youll not you n wont take nme allive",
-   "Introduction ":"*own it own it own it own it...ah...*\n...\nAh, apologies, I was not expecting such esteemed guests this hour; No matter, we shall make time. I, Mithradates IV, welcome you to the Kingdom of Pontus...\nYou haven't heard of my prestigious bloodline? Ah, remind me, did you say you were Persian or Greek?",
+   "Introduction":"*own it own it own it own it...ah...*\n...\nAh, apologies, I was not expecting such esteemed guests this hour; No matter, we shall make time. I, Mithradates IV, welcome you to the Kingdom of Pontus...\nYou haven't heard of my prestigious bloodline? Ah, remind me, did you say you were Persian or Greek?",
    "neutralHello":"What can I do for you friend?",
    "hateHello":"Oh, oh my Gods. I'm speechless. What could drive so many foreigners to butcher innocent people, their friends, neighbors, just because they spoke your language? I'm sorry beyond words, truly. We've had a couple squabbles in the past, but you must've understood that I'm not so cruel or insane that I could dismiss such an atrocity, and by those that called themselves your allies, I mean I don't even feel like I know this peninsula now. I promise I'll do everything I can to see these City-State massacres end at once. A tragedy, really.",
    "tradeRequest":"For you, I offer the riches of the Silk Road.",
@@ -18,7 +18,7 @@
    "uniqueText":"When at war, enemy units should spawn in enemy territory, and CS influence degrades 15% faster for all other civilizations. +33% Production towards melee units during WLTKD.",
    "uniqueName":"Adriatic Vespers",
    "innerColor":[58,27,149],
-   "outerColor":[144,2,191],
+   "outerColor":[194,52,251],
    "cities":["Sinope","Trabizon","Phazimonintis", "Amastris", "Cotyora", "Amisus", "Dazmontis", "Amasis", "Carusus"]
   },
  ]
