@@ -10,15 +10,15 @@
    "attacked":"Nonono what?  \nI'm chosen by the gods you freak shit. You're gonna regret this.",
    "defeated":"aahh yuor too late\n                  ohahhw\nno poisoncan get mno                       you stup\n   pioson I'm immune to every known to man\nno you no led isnt a poisouns you moron rance aa like lead im likincinible like lead im \n now youll not you n wont take nme allive",
    "introduction":"*own it own it own it own it...ah...*\n...\nAh, apologies, I was not expecting such esteemed guests this hour; No matter, we shall make time. I, Mithradates IV, welcome you to the Kingdom of Pontus...\nYou haven't heard of my prestigious bloodline? Ah, remind me, did you say you were Persian or Greek?",
-   "neutralHello":"What can I do for you friend?",
-   "hateHello":"Oh, oh my Gods. I'm speechless. What could drive so many foreigners to butcher innocent people, their friends, neighbors, just because they spoke your language? I'm sorry beyond words, truly. We've had a couple squabbles in the past, but you must've understood that I'm not so cruel or insane that I could dismiss such an atrocity, and by those that called themselves your allies, I mean I don't even feel like I know this peninsula now. I promise I'll do everything I can to see these City-State massacres end at once. A tragedy, really.",
+   "neutralHello":"What might I do for you friend...?",
+   "hateHello":"Oh my Gods... I'm speechless. Absolutely dumbfounded. What could drive so many foreigners to butcher innocent people, their friends, neighbors, countrymen, just because they spoke a similar tongue to your's? I'm sorry beyond words, truly. We've had a couple squabbles in the past, but you must've understood, I mean you can't have thought me so cruel or insane that I could let stand such an atrocity; and by those that acted as if they were your allies, I mean I don't even feel like I know this peninsula now. I promise I'll do everything I can to see these regional ethnic massacres end at once. A tragedy, really. My deepest condolences.",
    "tradeRequest":"For you, I offer the riches of the Silk Road.",
    "startIntroPart1":"Holy Calamity \nScream Insanity \nAll you ever gonna be's another great fan of me \nBreak!  \nBear Witness (Yo!) \nBear Witness (Yo!) \nBear Witness (Yo!) \nBear Witness (Yo!)  \nHoly Calamity \nScream Insanity \nAll you ever gonna be's another great fan of me  \n*scratching* This is a journey \nThi-Thi-Thi-This is a journey \nThis is a journey, journey  \n*Airhorn*  \nTHERE IT IS! (there it is!) \nBear witness! \nBear witness! \nBear witness! \nIf you never been hucblehducopidupap  \nHoly Calamity \nScream Insanity \nAll you ever gonna be's another great fan of me, break! \nBreak!Break!Break!Break!Break!  \nI'm the one that does the rockin' my rhymes are legit \nI'm the one that does the rockin', Bear witness",
-   "unique": ["Influence of all other civilizations with all city-states degrades [15]% faster <when at war>", "[1] additional attacks per turn <for [3] turns> <when at war>", "Rebel units may spawn <in [Enemy Land] tiles> <when at war>", "[+33]% Production when constructing [Melee] units [in all cities] <during We Love The King Day>"],
+   "unique": ["Influence of all other civilizations with all city-states degrades [15]% faster <when at war>", "[1] additional attacks per turn <with [50]% chance> <when at war>", "[-50]% growth [in enemy cities] <with [25]% chance> <when at war>", "Rebel units may spawn <in [Enemy Land] tiles> <when at war>", "[+33]% Production when constructing [Melee] units [in all cities] <during We Love The King Day>"],
    "uniqueText":"When at war, enemy units should spawn in enemy territory, and CS influence degrades 15% faster for all other civilizations. +33% Production towards melee units during WLTKD.",
    "uniqueName":"Adriatic Vespers",
-   "innerColor":[58,27,149],
-   "outerColor":[194,52,251],
-   "cities":["Sinope","Trabizon","Phazimonintis", "Amastris", "Cotyora", "Amisus", "Dazmontis", "Amasis", "Carusus"]
+   "innerColor":[185,95,215],
+   "outerColor":[159,20,134],
+   "cities":["Sinope","Trabizon","Phazimonintis", "Amastris", "Cotyora", "Amisus", "Dazmontis", "Amasis", "Carusus", "Mithradatus", "Mithradatus II", "Mithradatus III", "Mithradatus IV", "Mithradatus V", "All the Best", "Ultrasex"]
   },
  ]
