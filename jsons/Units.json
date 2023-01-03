@@ -13,7 +13,7 @@
 		"requiredResource": "Horses",
 		"uniques": ["[+33]% Strength <vs [Sword] units> <when attacking>", "[+33]% Strength <vs [Archer] units> <when attacking>", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>"],
 		"promotions": ["Shock I"],
-    "hurryCostModifier": 25,
+                "hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
 {
@@ -22,12 +22,12 @@
 		"replaces": "Warrior",
 		"uniqueTo": "Pontus",
 		"movement": 2,
-		"strength": 9,
+		"strength": 8,
 		"cost": 40,
 		"requiredTech": "Agriculture",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
-		"uniques": ["[+15]% Strength <after discovering [Iron Working]>"],
+		"uniques": ["[+20]% Strength <after discovering [Iron Working]>", "Double movement in [Hill]", "Can construct [Pasture]"],
                 "promotions": ["Drill I"],
 		"attackSound": "metalhit"
 	},
