@@ -21,4 +21,25 @@
    "outerColor":[98,7,132],
    "cities":["Sinope","Trabizon","Phazimonintis", "Amastris", "Cotyora", "Amisus", "Dazmontis", "Amasis", "Carusus", "Mithradatus", "Mithradatus II", "Mithradatus III", "Mithradatus IV", "Mithradatus V", "I've been Denied", "All the Best", "Ultrasex", "Now Everybody Knows What I Am And I CanNeverLiveItDown"]
   },
+{
+    "adjective":"Phrygian",
+    "attacked":"I understand you're upset about your children and all but was he really that bad of a cook?",
+    "cities":["Midas","Gordian","Pessinus","Greater Sardis"],
+    "declaringWar":"Oh? Is that by chance Gold up in your stats UI? I'm afraid we're going back to being raiders until you're relived of all that.",
+    "defeated":"Egads; just like Attis, Cybele has seen to punish me for my pride, my prestige, my eminence, through sending chaos and madness to destroy Phrygia. Psychotic petty bitch. Fuck her. She's just jealous. Ragged old mother-in-law looking ass.",
+    "hateHello":"Hmmmm? Come to soil the brilliant King Midas with your filthy presence? Sorry to tell you, but you're wasting my time; gold is stainless.",
+    "innerColor":[207,124,104],
+    "introduction":"I welcome you foreigner, as King Midas of Phrygia, though I'm sure my reputation precedes me.",
+    "name":"Phrygia",
+    "neutralHello":"Welcome dignitary. What is it you've come to offer?",
+    "outerColor":[164,189,65],
+    "preferredVictoryType":"Neutral",
+    "startBias":["Plains", "Hill"],
+    "startIntro":"Phrygians were kinda very vaguely remenicent of the Thracians but linguistically Greeks closest relative. They migrated at the very end of the bronze age just to prod at the rapidly expiring Hittites. Had good music and ok hats like the Thracians. Adaptable group of fellows, skilled at working iron but especially gold. Decent horsemen idk. Midas gold man Phrygian. Gordian knot it was in fucking Gordia. Vanilla Anatolii w/Thracian infusion. Cybele is cool besides the castration, Magna Mater was a real downgrade. Oh yeah and Midas was credited w/black lead or something, which kinda j sounds worse than what he actually did.",
+    "tradeRequest":"I assure you, a handshake is all it takes for us to make you a fabulous amount of wealth.",
+    "uniques":["[+1 Gold] from [Mine] tiles [in all cities] <during a Golden Age>, [+1 Gold, +1 Production] from [Iron] tiles [in all cities], [+1 Gold, +1 Culture] from [Gold Ore] tiles [in all cities]", "[+1 Gold, +1 Culture] from every [Artist] <in cities with a [Mint]>", "[+1 Gold, +1 Culture] from every [Artist] <in cities with a [Forge]>"],
+    "uniqueText":"+2 Gold, +2 Culture, +1 Iron on Gold and Iron.\nDuring a Golden Age, all Mines produce +1 Gold.",
+    "uniqueName":"Magna Mater" 
+},
+
  ]
