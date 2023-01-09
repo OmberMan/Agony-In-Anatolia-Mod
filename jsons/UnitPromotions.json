@@ -1,6 +1,6 @@
 [
 {
-		"name": "[Cappadocian Hillmen] ability",
+		"name": "Simple Man",
 		"uniques": ["[+25]% Strength <when fighting in [Hill] tiles> <when attacking>", "Double Movement <in [Hill] tiles>", "No movement cost to pillage", "Can construct [Pasture]"]
 	},
 {
