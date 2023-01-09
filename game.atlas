@@ -1,0 +1,55 @@
+
+game.png
+size: 1024, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Phrygia
+  rotate: false
+  xy: 224, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Pontus
+  rotate: false
+  xy: 440, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Cappadocian Hillmen
+  rotate: false
+  xy: 116, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Phrygian Vagabond
+  rotate: false
+  xy: 332, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Scythed Chariot
+  rotate: false
+  xy: 548, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Simple Man
+  rotate: false
+  xy: 656, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/[Phrygian Vagabond] ability
+  rotate: false
+  xy: 4, 4
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
