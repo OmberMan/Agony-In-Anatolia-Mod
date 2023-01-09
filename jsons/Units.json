@@ -31,4 +31,21 @@
                 "promotions": ["[Cappadocian Hillmen] ability"],
 		"attackSound": "metalhit"
 	},
+{
+		"name": "Phrygian Vagabond",
+		"unitType": "Mounted",
+		"uniqueTo": "Phrygia",
+		"replaces": "Horseman",
+		"movement": 4,
+		"strength": 12,
+		"cost": 75,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"requiredResource": "Horses",
+                "promotions": ["[Phrygian Vagabond] ability"],
+		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "No movement cost to pillage", "Transfer Movement to [Civilian]"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
   ]
