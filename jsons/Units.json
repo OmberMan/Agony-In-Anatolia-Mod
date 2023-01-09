@@ -23,12 +23,12 @@
 		"uniqueTo": "Pontus",
 		"movement": 2,
 		"strength": 8,
-		"cost": 40,
+		"cost": 48,
 		"requiredTech": "Agriculture",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
-		"uniques": ["[+20]% Strength <after discovering [Iron Working]>", "Double movement in [Hill]", "Can construct [Pasture]"],
-                "promotions": ["Drill I"],
+		"uniques": ["[+20]% Strength <after discovering [Iron Working]>"],
+                "promotions": ["[Cappadocian Hillmen] ability"],
 		"attackSound": "metalhit"
 	},
   ]
