@@ -1,7 +1,7 @@
 [
 {
-		"name": "[Cappadocian Hillman] ability",
-		"uniques": ["[+25]% Strength <when fighting in [Hill] tiles> <when attacking>", "[+1] Movement <in [Hill] tiles>", "No movement cost to pillage", "Can construct [Pasture]"]
+		"name": "[Cappadocian Hillmen] ability",
+		"uniques": ["[+25]% Strength <when fighting in [Hill] tiles> <when attacking>", "Double Movement <in [Hill] tiles>", "No movement cost to pillage", "Can construct [Pasture]"]
 	},
 {
 		"name": "[Phrygian Raider] ability",
