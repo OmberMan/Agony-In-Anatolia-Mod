@@ -28,7 +28,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"uniques": ["[+20]% Strength <after discovering [Iron Working]>"],
-                "promotions": ["[Simple Man] ability"],
+                "promotions": ["Simple Man"],
 		"attackSound": "metalhit"
 	},
 {
