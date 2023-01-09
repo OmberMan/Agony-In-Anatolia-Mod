@@ -28,7 +28,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"uniques": ["[+20]% Strength <after discovering [Iron Working]>"],
-                "promotions": ["[Cappadocian Hillmen] ability"],
+                "promotions": ["[Simple Man] ability"],
 		"attackSound": "metalhit"
 	},
 {
