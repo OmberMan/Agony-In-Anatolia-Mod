@@ -1,10 +1,10 @@
 [
 {
 		"name": "Simple Man",
-		"uniques": ["[+25]% Strength <when fighting in [Hill] tiles> <when attacking>", "Double Movement <in [Hill] tiles>", "No movement cost to pillage", "Can construct [Pasture]"]
+		"uniques": ["[+25]% Strength <when fighting in [Hill] tiles> <when attacking>", "Double Movement <in [Hill] tiles>", "Can construct [Pasture]"]
 	},
 {
 		"name": "[Phrygian Vagabond] ability",
-		"uniques": ["[+1] Movement <in [Foreign] tiles>", "[+33]% XP gained from combat <when adjacent to a [Great] unit>"]
+		"uniques": ["[+1] Movement <in [Foreign Land] tiles>", "[+33]% XP gained from combat <when adjacent to a [Great] unit>"]
 	},
 ]
