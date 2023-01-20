@@ -43,4 +43,26 @@
     "uniqueText":"+1 [Gold], +1 [Culture] from [Gold Ore] and [Iron] tiles, and from every Artist in a city with a Mint or National Epic. \nDuring a Golden Age, +1 [Gold] on Mine tiles.",
     "uniqueName":"Magna Mater" 
 },
+
+  {
+    "adjective":"Lydian",
+    "style": "Mediterranean",
+    "attacked":"That's nothing!\nI'm all that in a day\nProbly\nI got more money than stock aiken\nAnd dennis waterman put together-\nAa",
+    "cities":["Sardis","Smyma","Orvich-Vonor","Lydia"],
+    "declaringWar":"Oi you.\nShut your mouth and look at my wad\nLOADSAMONEY",
+    "defeated":"Sing a song of sixpence a pocket fulla dosh\nDibbledibble dibbledibble \nBoshboshbosh \n$ing a song of sixpence a pocket fulla dosh\nDibbledibble dibbledibble\nBoshboshbosh\n$ing a song of sixpence a pocket fulla dosh\nDibbledibble LOADSAMONEY\nLOADSAMONEY LOADSAMONEY\nAHHAAHHHHH","hateHello":"L \nO \nD \nS\nOf \nE \nM \nO\nN\nE\nWhats that spell?\nLOADSAMONEY \nProbly.",
+    "innerColor":[186,174,75],
+    "introduction":"My name;\nMy name; \nMy name;\nIs loadsamoney",
+    "leaderName":"Croesus",
+    "name":"Lydia",
+    "neutralHello":"D\nD\nDoing up the house is my bread and butter\nMe bird's page three and me car's a nutter\nLOADSAMONEY is the shout I utter\nAs I wave my wad to the gazzas in the gutter",
+    "outerColor":[237,235,53],
+    "preferredVictoryType": "Scientific",
+    "startBias":["Avoid Snow"],
+    "startIntroPart":"Money they're rich you know this shit. Honestly there's nothing else they seemed to exceed in or that characterized them. Creating currency and become rich is cool but really compared to the huge philosophically, mathematically, and politically advanced shit the Greeks were mowing through its kinda eh. On top of that Lydia was exponentially less colorful culturally, and just got railed by Persia like the rest of Anatolia. Then posthumously by Phrygia. Dunno",
+    "tradeRequest":"[Money makes the world go around]\n[Money makes the world go around]\n\nAll this scratching's making me rich.",
+    "uniques": ["[+20]% [Gold] [in all cities], [+1 Gold] from every specialist [in all non-occupied cities] <in cities with a [Mint]>", "[+1 Gold] <in [River] tiles>"],
+    "uniqueText":"Gain +20% Gold in all cities. +1 Gold from specialists and +1 Gold & Production from luxury resources on rivers.",
+    "uniqueName":"Rich as Croesus"
+  },
 ]
