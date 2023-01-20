@@ -7,4 +7,8 @@
 		"name": "[Phrygian Vagabond] ability",
 		"uniques": ["[+1] Movement <in [Foreign Land] tiles>", "[+33]% XP gained from combat <when adjacent to a [Great] unit>"]
 	},
+{
+		"name": "[Hippomanchoi] ability",
+		"uniques": ["[+15]% Strength <during a Golden Age>"]
+	},
 ]
