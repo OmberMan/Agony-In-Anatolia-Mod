@@ -48,4 +48,22 @@
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
+{
+		"name": "Hippomanchoi",        
+                "uniqueTo": "Lydia",
+		"replaces": "Horseman",
+                "unitType": "Mounted",
+		"movement": 4,
+		"strength": 13,
+		"cost": 95,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"requiredResource": "Horses",
+                "promotions": ["Shock I", "[Hippomanchoi] ability"],
+		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "[-10]% Strength for enemy [Land] units in adjacent [Open terrain] tiles <when above [99] HP>"],
+		"hurryCostModifier": 15,
+		"attackSound": "horse"
+	},
+
   ]
