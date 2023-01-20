@@ -59,11 +59,11 @@
     "neutralHello":"D\nD\nDoing up the house is my bread and butter\nMe bird's page three and me car's a nutter\nLOADSAMONEY is the shout I utter\nAs I wave my wad to the gazzas in the gutter",
     "outerColor":[218,215,23],
     "preferredVictoryType": "Scientific",
-    "startBias":["Avoid Tundra"],
+    "startBias":["Avoid Tundra", "River"],
     "startIntroPart1":"Money they're rich you know this shit. Honestly there's nothing else they seemed to exceed in or that characterized them. Creating currency and become rich is cool but really compared to the huge philosophically, mathematically, and politically advanced shit the Greeks were mowing through its kinda eh. On top of that Lydia was exponentially less colorful culturally, and just got railed by Persia like the rest of Anatolia. Then posthumously by Phrygia. Dunno",
     "tradeRequest":"[Money makes the world go around]\n[Money makes the world go around]\n\nAll this scratching's making me rich.",
     "uniques": ["[+25]% [Gold] [in all cities]", "[+3 Gold, +1 Production] from all [Gold] buildings <in cities with a [Mint]>", "[+1 Gold] <in [River] tiles>"],
-    "uniqueText":"Gain +20% Gold in all cities. +1 Gold from specialists and +1 Gold & Production from luxury resources on rivers.",
+    "uniqueText":"Gain +25% Gold in all cities. +3 Gold & +1 Production from Gold buildings in cities with a Mint, and +1 Gold from River Tiles",
     "uniqueName":"Rich as Croesus"
   },
 ]
