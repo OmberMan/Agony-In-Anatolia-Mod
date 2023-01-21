@@ -62,8 +62,26 @@
 		"requiredResource": "Horses",
                 "promotions": ["Shock I", "[Hippomanchoi] ability"],
 		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "[-10]% Strength for enemy [Land] units in adjacent [Open terrain] tiles <when above [99] HP>"],
-		"hurryCostModifier": 15,
-		"attackSound": "horse"
+		"hurryCostModifier": 20,
+		"attackSound": "horse" 
+	},
+{
+		"name": "Niwiswa Bowmen",        
+                "uniqueTo": "Lydia",
+		"replaces": "Composite Bowman",
+                "unitType": "Archer",
+		"movement": 2,
+		"strength": 7,
+                "rangedStrength": 11,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"upgradesTo": "Crossbowman",
+		"obsoleteTech": "Machinery",
+                "promotions": ["[Hippomanchoi] ability"],
+		"uniques": ["[+15]% Strength <in [City center> tiles"],
+		"hurryCostModifier": 5,
+		"attackSound": "arrow" 
+                //wiswa zītis
 	},
 
   ]
