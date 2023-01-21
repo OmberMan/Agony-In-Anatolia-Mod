@@ -61,7 +61,7 @@
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
                 "promotions": ["Shock I", "Good as Gold"],
-		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "[-10]% Strength for enemy [Land] units in adjacent [Open terrain] tiles <when above [99] HP>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[-10]% Strength for enemy [Land] units in adjacent [Open terrain] tiles <when above [99] HP>"],
 		"hurryCostModifier": 25,
 		"attackSound": "horse" 
 	},
