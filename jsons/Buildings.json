@@ -1,0 +1,14 @@
+[	
+{
+                "name": "Temple of Kybele",
+		"cost": 125,
+                "replaces": "Grand Temple",
+                "uniqueTo": "Phrygia",
+		"culture": 1,
+		"faith": 4,
+		"uniques": ["Requires a [Temple] in all cities", "Cost increases by [30] per owned city", "[+1 Faith] from [unimproved] tiles without [Water] [in this city]", "Can only be built [in all cities in which the majority religion is a major religion]",
+			"[+100]% Natural religion spread [in this city]", "Hidden when religion is disabled", "[+10]% growth [in this city]", "All newly-trained [Melee] units [in this city] receive the [Drill I] promotion <with [15]% chance>"],
+	       	"requiredTech": "Philosophy",
+		"isNationalWonder": true
+	},
+]
