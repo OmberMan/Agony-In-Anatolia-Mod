@@ -78,7 +78,7 @@
 		"upgradesTo": "Crossbowman",
 		"obsoleteTech": "Machinery",
                 "promotions": ["Good as Gold"],
-		"uniques": ["[+15]% Strength <in [City center> tiles"],
+		"uniques": ["[+15]% Strength <in [City center] tiles>"],
 		"hurryCostModifier": 5,
 		"attackSound": "arrow" 
                 // wiswa zītis
