@@ -17,7 +17,7 @@
 		"attackSound": "horse"
 	},
 {
-		"name": "Cappadocian Hillman",
+		"name": "Cappadocian Hillmen",
 		"unitType": "Sword",
 		"replaces": "Warrior",
 		"uniqueTo": "Pontus",
