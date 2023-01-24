@@ -11,7 +11,7 @@
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["[+50]% Strength <vs [Sword] units> <when attacking>", "[+50]% Strength <vs [Archer] units> <when attacking>", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["[+50]% Strength <vs [Sword] units> <when attacking>", "[+50]% Strength <vs [Archery] units> <when attacking>", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>", "[-20]% Strength for enemy [Wounded] units in adjacent [Open terrain] tiles"],
 		"promotions": ["Shock I"],
                 "hurryCostModifier": 25,
 		"attackSound": "horse"
@@ -26,7 +26,7 @@
 		"cost": 48,
 		"requiredTech": "Agriculture",
 		"upgradesTo": "Longswordsman",
-		"obsoleteTech": "Gunpowder",
+		"obsoleteTech": "Steel",
 		"uniques": ["[+20]% Strength <after discovering [Iron Working]>", "No movement cost to pillage"],
                 "promotions": ["Simple Man"],
 		"attackSound": "metalhit"
@@ -61,7 +61,7 @@
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
                 "promotions": ["Shock I", "Good as Gold"],
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[-10]% Strength for enemy [Land] units in adjacent [Open terrain] tiles <when above [99] HP>"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+20]% Strength <when above [99] HP>"],
 		"hurryCostModifier": 25,
 		"attackSound": "horse" 
 	},
