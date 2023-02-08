@@ -66,4 +66,26 @@
     "uniqueText":"Gain +25% [Gold] in all cities. +2 [Gold] & +1 [Production] from [Gold] buildings in cities with a Mint, and +1 [Gold] from River Tiles",
     "uniqueName":"Rich as Croesus"
   },
+  {
+   "adjective":"Isurian",
+   "attacked":"You people never learn. I'd see our cities burned to ash before submitting Isuria to you.",
+   "cities":["Palaea Isuria","Nueva Isuria","West Grestin"],
+   "declaringWar":"Truth is I hate this \nalways have \nyour nations crown is my freedom.",
+   "defeated":"(*burning and screaming noises*)",
+   "hateHello":"No, don't care, fuck you, fuck your language, fuck your civilization, Isuria is ours and so are your sheep.",
+   "innerColor":[115,195,200],
+   "introduction":"Hn? We are the Isurians; last of the Anatolians, unconquered by Persia, unbroken by Macedon, a people as strong as uncompromising as our mountains. \nDiplomacy is over, now get out",
+   "leaderName":"The Wall (No man on earth can make it fall)",
+   "name":"Isuria",
+   "neutralHello":"...",
+   "outerColor":[115,115,125],
+   "preferredVictoryType":"Neutral",
+   "startBias":["Mountain"],
+   "startIntroPart":"Kolechia borders five other countries, a lake with Antegria and Obristan, and the easternmost ocean. Kolechia is the largest of the three countries seen in their entirety on the map.",
+   "tradeRequest":"This once we are willing to deal.",
+   "unique":"[+40]% Strength for cities, Damage is ignored when determining unit Strength<when fighting units from a Civilization with more Cities than you>, [+15]% Strength <when fighting in [Friendly Land] tiles> <when fighting in [Hill] tiles>",
+   "uniqueText":"+15% CS for units in friendly hill tiles, and CS ignores unit damage when fighting larger civilizations. +40% City CS.",
+   "uniqueName":"The Unbreakable People"
+  },
+
 ]
