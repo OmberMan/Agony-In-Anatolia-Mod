@@ -83,7 +83,7 @@
    "startBias":["Mountain"],
    "startIntroPart1":"Kolechia borders five other countries, a lake with Antegria and Obristan, and the easternmost ocean. Kolechia is the largest of the three countries seen in their entirety on the map.",
    "tradeRequest":"This once, we are willing to negotiate a deal. And not for the purpose of distraction while we steal your sheep.",
-   "uniques": ["[+50]% Strength for cities <within [1] tiles of a [Mountain]", "[+50]% Strength decreasing with distance from the capital <when fighting units from a Civilization with more Cities than you> <for [Melee] units>", "[+2 Production] from [Mountain] tiles [in all cities]", "[+1 Production, +1 Food] from [Mountain] tiles [in all cities] <when at war>"],
+   "uniques": ["[+50]% Strength for cities <with [1] to [6] neighboring [Mountain] tiles>", "[+50]% Strength decreasing with distance from the capital <when fighting units from a Civilization with more Cities than you> <for [Melee] units>", "[+2 Production] from [Mountain] tiles [in all cities]", "[+1 Production, +1 Food] from [Mountain] tiles [in all cities] <when at war>"],
    "uniqueText":"+2 [Production] from Mountain tiles, plus +1 [Production] +1 [Food] when at war. +50% Strength for Melee units decreasing with distance from the capital when fighting larger civilizations. +50% Strength for cities next to a mountain.",
    "uniqueName":"The Unbreakable People"
   },
