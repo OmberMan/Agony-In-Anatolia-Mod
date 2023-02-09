@@ -83,5 +83,19 @@
 		"attackSound": "arrow" 
                 // wiswa zītis
 	},
-
+{
+		"name": "Isaurian Marauder",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Isauria",
+		"movement": 2,
+		"strength": 10,
+		"cost": 56,
+		"requiredTech": "Mining",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"uniques": ["Destroys tile improvements when attacking", "Ignores Zone of Control", "Damage is ignored when determining unit Strength", "No movement cost to pillage", "[+20]% Strength <when fighting in [Friendly land] tiles>"],
+                "promotions": ["Simple Man"],
+		"attackSound": "metalhit"
+	},
   ]
