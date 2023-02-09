@@ -93,7 +93,7 @@
     "cities":["Nicomidea","Nicaea","Heraclea Pontica","Bithynion-Claudiopolis","Cius"],
     "declaringWar":"We've built cities and learned Greek, but our blood is still of Thracians. Have you forgotten?",
     "defeated":"My final decree, I bequeath my kingdom to Rome, and to Julius Caesar, Queen of Bithynia.",
-    "hateHello":"I'm going to fuck your dad.",
+    "hateHello":"I'm Going \nto Fuck your \ndad.",
     "innerColor":[239,220,4],
     "introduction":"Ave, you stand before King Nicomedes IV of Bithynia, which, coincidentally, is also the name of this city. Now sit, you must try the wine here.",
     "leaderName":"Nicomedes IV",
@@ -106,6 +106,6 @@
     "tradeRequest":"Know that trade strengthens all peoples involved.",
     "uniques":["[+2 Gold] from all [Military] buildings", "[+1 Gold, +1 Culture] from each Trade Route <upon declaring friendship> <when not at war>", "[2] free [Melee] units appear <upon declaring friendship> <when at war>", "Gain [25]-[100] [Culture] <upon founding a city>"],
     "uniqueText":"Military City State allies gift units 3 times as fast when you're at war.\n+2 Gold from military buildings, and all city purchases are 15% off",
-    "uniqueName":"Amicus of the Mithradaic Wars"
+    "uniqueName":"Amicus of Rome"
   },
 ]
