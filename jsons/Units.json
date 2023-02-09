@@ -94,9 +94,9 @@
 		"requiredTech": "Mining",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
-		"uniques": ["Destroys tile improvements when attacking", "Ignores Zone of Control", "Damage is ignored when determining unit Strength", "No movement cost to pillage", "[+25]% Strength <within [1] tiles of a [Mountain]", "[+15]% Strength <when fighting in [Friendly land] tiles>"],
+		"uniques": ["Destroys tile improvements when attacking", "Ignores Zone of Control", "Damage is ignored when determining unit Strength", "No movement cost to pillage", "[+25]% Strength <within [1] tiles of a [Mountain]", "[+15]% Strength <when fighting in [Friendly Land] tiles>"],
                 "promotions": ["Simple Man"],
-		"attackSound": "metalhit"
+		"attackSound": "throw"
 	},
 {
 		"name": "Rhomphaiaphoroi",
