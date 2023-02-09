@@ -98,4 +98,19 @@
                 "promotions": ["Simple Man"],
 		"attackSound": "metalhit"
 	},
+{
+		"name": "Rhomphaiaphoroi",
+		"unitType": "Sword",
+		"replaces": "Swordsman",
+		"uniqueTo": "Bithynia",
+		"movement": 2,
+		"strength": 14,
+		"cost": 85,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"uniques": ["[+25]% Strength <when attacking>", "[+25]% Strength <vs [Mounted] units>"],
+                "requiredResource": "Iron",
+		"attackSound": "metalhit"
+	},
   ]
