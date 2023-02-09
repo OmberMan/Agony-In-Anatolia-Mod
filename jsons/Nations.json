@@ -87,4 +87,25 @@
    "uniqueText":"+2 [Production] from Mountain tiles, plus +1 [Production] +1 [Food] when at war. +40% Strength for Melee units decreasing with distance from the capital when fighting larger civilizations. +50% Strength for cities next to a mountain.",
    "uniqueName":"The Unbreakable People"
   },
+  {
+    "adjective":"Bithynian",
+    "attacked":"An opportunity to fight beside true friends is the best suprise we could've asked for.",
+    "cities":["Nicomidea","Nicaea","Heraclea Pontica","Bithynion-Claudiopolis","Cius"],
+    "declaringWar":"We've built cities and learned Greek, but our blood is still of Thracians. Have you forgotten?",
+    "defeated":"My final decree, I bequeath my kingdom to Rome, and to Julius Caesar, Queen of Bithynia.",
+    "hateHello":"I'm going to fuck your dad.",
+    "innerColor":[239,220,4],
+    "introduction":"Ave, you stand before King Nicomedes IV of Bithynia, which, coincidentally, is also the name of this city. Now sit, you must try the wine here.",
+    "leaderName":"Nicomedes IV",
+    "name":"Bithynia",
+    "neutralHello":"How is going it over there?", 
+    "outerColor":[20,1,196],
+    "preferredVictoryType":"Diplomatic",
+    "startBias":["Coast"],
+    "startIntroPart1":"Bithynia was founded by a Thracian-related tribe that moved into the area Southwest of Constantinople later than other tribes outside of the Galatians. They liked mercenaries. They liked Romans. Caesar bottom joke. Imagine living and dying in service of your people, and they end up primarily remembered for one of their kings, specifically for being rumored to have railed some guy by his political enemies. Anyways i don't remember how people talk sorry","startIntroPart2":"fucking losing it rn bestie",
+    "tradeRequest":"Know that trade strengthens all peoples involved.",
+    "uniques":["[+2 Gold] from all [Military] buildings", "[+1 Gold, +1 Culture] from each Trade Route <upon declaring friendship> <when not at war>", "[2] free [Melee] units appear <upon declaring friendship> <when at war>", "Gain [25]-[100] [Culture] <upon founding a city>"],
+    "uniqueText":"Military City State allies gift units 3 times as fast when you're at war.\n+2 Gold from military buildings, and all city purchases are 15% off",
+    "uniqueName":"Amicus of the Mithradaic Wars"
+  },
 ]
