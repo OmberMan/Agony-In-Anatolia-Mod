@@ -1,0 +1,11 @@
+[
+{
+		"name": "Mountain Stronghold",
+		"uniqueTo": "Isauria",
+                "terrainsCanBeBuiltOn": ["Hill"],
+		"production": 1,
+		"turnsToBuild": 10,
+		"techRequired": "Bronze Working",
+		"uniques": ["[+1 Culture, +1 Gold] from [Stone] tiles <when not at war>", "Can only be built on [Hill] tiles <with [1] to [6] neighboring [Mountain] tiles>", "Cannot be built on [Land] tiles <with [1] to [6] neighboring [Mountain Stronghold] tiles>", "Gives a defensive bonus of [25]%", "Adjacent enemy units ending their turn take [10] damage", "Unpillagable", "Does not need removal of [Forest]"],
+	},
+]
