@@ -11,4 +11,29 @@
 	       	"requiredTech": "Philosophy",
 		"isNationalWonder": true
 	},
+{
+                "name": "Electrum Refinery",
+		"cost": 125,
+                "maintenance": 3,
+                "replaces": "Water Mill",
+                "uniqueTo": "Lydia",
+		"specialistSlots": {"Merchant": 2},
+                "food": 0,
+                "production": 1,
+                "percentStatBonus": {"production": 15, "gold": 15},
+		"uniques": ["[+1 Gold] from every specialist [in this city]", "Must be on [River]",
+			"[+1 Production] <with [Silver]>", "[+1 Production] <with [Gold Ore]>"],
+	       	"requiredTech": "Currency"
+	},	
+        {
+		"name": "Isaurian Fortress",
+		"replaces": "Walls",
+		"cost": 100,
+		"uniqueTo": "Isauria",
+		"cityStrength": 8,
+		"cityHealth": 80,
+		"hurryCostModifier": 10,
+		"requiredTech": "Mining",
+		"uniques": ["Destroyed when the city is captured", "Excess Food converted to Production when under construction", "[+10]% Food is carried over after population increases [in this city] <when at war>"]
+	},
 ]
