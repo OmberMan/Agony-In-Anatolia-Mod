@@ -36,4 +36,16 @@
 		"requiredTech": "Mining",
 		"uniques": ["Destroyed when the city is captured", "Excess Food converted to Production when under construction", "[+10]% Food is carried over after population increases [in this city] <when at war>"]
 	},
+	{
+		"name": "Proponitc Port",
+  "replaces": "Lighthouse",
+		"uniqueTo": "Bithynia",
+		"cost": 75,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+  "percentStatBonus": {"gold": 10},
+		"uniques": ["Must be next to [Coast]", "[+1 Food] from [Ocean] tiles [in this city]",
+			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]", "[+5]% Production when constructing [All] buildings [in this city]"],
+		"requiredTech": "Optics"
+	},
 ]
