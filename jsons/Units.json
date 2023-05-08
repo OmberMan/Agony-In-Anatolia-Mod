@@ -75,7 +75,7 @@
 		"cost": 56,
 		"requiredTech": "Bronze Working",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+25]% Strength <vs [Mounted] units>", "Gain [2]-[5] [Gold] <upon defeating a [Military] unit> <when fighting in [Enemy land] tiles>", "This Unit gains [1] XP <upon ending a turn in a [Foreign Land] tile>", "Can move immediately once bought"],
+		"uniques": ["[+25]% Strength <vs [Mounted] units>", "Gain [2]-[5] [Gold] <upon defeating a [Military] unit> <when fighting in [Enemy Land] tiles>", "This Unit gains [1] XP <upon ending a turn in a [Foreign Land] tile>", "Can move immediately once bought"],
 		"promotions": ["Drill I"],
 		"attackSound": "metalhit"
 	},
