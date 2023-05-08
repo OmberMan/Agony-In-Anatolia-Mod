@@ -21,6 +21,34 @@
    "outerColor":[98,6,134],
    "cities":["Sinope","Trabizon","Phazimonintis", "Amastris", "Cotyora", "Amisus", "Dazmontis", "Amasis", "Carusus", "Mithradatus", "Mithradatus II", "Mithradatus III", "Mithradatus IV", "Mithradatus V", "I've been Denied", "All the Best", "Ultrasex", "Now Everybody Knows What I Am And I CanNeverLiveItDown"]
   },
+  	{
+		"name": "Caria",
+		"leaderName": "Mausoleus",
+		"adjective": ["Carian"],
+		"startBias": ["Hill"],
+    "style": "Mediterranean",
+    "preferredVictoryType": "Neutral",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "War is what men were made for, no point in fighting it.",
+		"attacked": "Yet I feel nothing.",
+		"defeated": "I know we've had our differences, but I really need you to do me a solid once I'm gone. Please take care of my sister: she's always been a very sentimental person who's prone to despair, and I just want to make sure she gets over my death. Make sure she doesn't do anything extreme or unhealthy while she copes, and avoid promoting such behavior by romanticizing that stuff; oh and don't let her go see tragedies. Thanks. \n\n...The what of Halicarnassus?",
+		"introduction": "Welcome to Caria, I am it's ruler Mausoleus.",
+
+		"neutralHello": "Ah, you came to Caria.",
+		"hateHello": "You're looking down on me aren't you?",
+
+		"tradeRequest": "You need fighting men? Because Karian mercenaries are some of the fighters in the  Mediterranean. \nYou know it's all the same old shit.",
+
+		"outerColor": [225,217,203],
+		"innerColor": [176,70,138],
+		"uniqueName": "The Barbarian Ideal",
+		"uniques": ["All newly-trained [Sword] units [in all cities with a world wonder] receive the [Siege] promotion","All newly-trained [Gunpowder] units [in all cities with a world wonder] receive the [Siege] promotion","[+33]% City Strength from defensive buildings <in cities with a [Wonder]>", "Allied City-States provide [Culture] equal to [5]% of what they produce for themselves", "Free [Melee] appears <upon founding a city>", "[-50]% [Gold] from Trade Routes"]
+		"cities": ["Halicarnassus","Stratonikeia","Mylasa","Harpasa","Tabal","Karyanda","Kidramos","Kaunos","Kidramos","Orthosia","Alinda","Lazpas",
+		"Chalketor","Kalynda","Amyzon","Alabanda","Karkisa","Astyra"]
+	},
 {
     "adjective":"Phrygian",
     "leaderName":"Midas III",
