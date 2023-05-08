@@ -95,7 +95,7 @@ TileSets/FantasyHex/Units/Cappadocian Hillmen
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Dryad
+TileSets/FantasyHex/Units/Treant Worker
   rotate: false
   xy: 76, 36
   size: 32, 32
