@@ -26,7 +26,7 @@
 	       	"requiredTech": "Currency"
 	},	
         {
-		"name": "Isaurian Fortress",
+		"name": "Isaurian Holdout",
 		"replaces": "Walls",
 		"cost": 100,
 		"uniqueTo": "Isauria",
