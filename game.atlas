@@ -1,0 +1,272 @@
+
+game.png
+size: 1024, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Electrum Refinery
+  rotate: false
+  xy: 524, 804
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Fanu
+  rotate: false
+  xy: 4, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Isaurian Holdout
+  rotate: false
+  xy: 4, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BuildingIcons/Proponitc Port
+  rotate: false
+  xy: 636, 524
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BuildingIcons/Temple of Kybele
+  rotate: false
+  xy: 4, 492
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+NationIcons/Bithynia
+  rotate: false
+  xy: 420, 384
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Hippomanchoi
+  rotate: false
+  xy: 420, 384
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Caria
+  rotate: false
+  xy: 4, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Isauria
+  rotate: false
+  xy: 420, 168
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Lydia
+  rotate: false
+  xy: 844, 696
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Phrygia
+  rotate: false
+  xy: 840, 584
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Pontus
+  rotate: false
+  xy: 528, 380
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Cappadocian Hillmen
+  rotate: false
+  xy: 940, 900
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Dryad
+  rotate: false
+  xy: 76, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Gungdo Archer
+  rotate: false
+  xy: 636, 484
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Gyroblimp
+  rotate: false
+  xy: 940, 860
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Hippomanchoi
+  rotate: false
+  xy: 116, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Isaurian Marauder
+  rotate: false
+  xy: 636, 444
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Niwiswa Bowman 
+  rotate: false
+  xy: 940, 820
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Phrygian Vagabond
+  rotate: false
+  xy: 156, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rhomphaiaphoroi
+  rotate: false
+  xy: 636, 404
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Scythed Chariot
+  rotate: false
+  xy: 196, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sonar Shark
+  rotate: false
+  xy: 636, 364
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Uazali
+  rotate: false
+  xy: 236, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Cappadocian Hillmen
+  rotate: false
+  xy: 420, 276
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Gyroblimp
+  rotate: false
+  xy: 940, 940
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitIcons/Hurrite Axeman
+  rotate: false
+  xy: 212, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Isaurian Marauder
+  rotate: false
+  xy: 732, 584
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mariyannu Chariot
+  rotate: false
+  xy: 524, 596
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Niwiswa Bowman
+  rotate: false
+  xy: 420, 60
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Phrygian Vagabond
+  rotate: false
+  xy: 528, 488
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rhomphaiaphoroi
+  rotate: false
+  xy: 528, 272
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Scythed Chariot
+  rotate: false
+  xy: 528, 164
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Town Guard
+  rotate: false
+  xy: 732, 804
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Uazali
+  rotate: false
+  xy: 212, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Good as Gold
+  rotate: false
+  xy: 732, 692
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/[Phrygian Vagabond] ability
+  rotate: false
+  xy: 732, 692
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Simple Man
+  rotate: false
+  xy: 528, 56
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
