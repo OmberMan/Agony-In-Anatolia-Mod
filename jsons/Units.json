@@ -125,7 +125,19 @@
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+25]% Strength <vs [Mounted] units>", "Gain [2]-[5] [Gold] <upon defeating a [Military] unit> <when fighting in [Enemy Land] tiles>", "This Unit gains [1] XP <upon ending a turn in a [Foreign Land] tile>", "Can move immediately once bought"],
 		"promotions": ["Drill I"],
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
+"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Uazali",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "Come on... \nLet's all get into the tent now. \nI wanna fire a rocket launcher \nInto some innocent civilians. \nI wanna join up \nTo drive around in a fucking Tomahawk... \nHelecopters shoot missiles into the fucking ground \nLet's Join the Army, \nLeeets \nLets all Join the Army"
+			}
+		]
 	},
 {
 		"name": "Niwiswa Bowman",        
@@ -158,7 +170,19 @@
 		"obsoleteTech": "Steel",
 		"uniques": ["Destroys tile improvements when attacking", "Ignores Zone of Control", "Damage is ignored when determining unit Strength", "No movement cost to pillage", "[+20]% Strength <within [1] tiles of a [Mountain]>", "[+20]% Strength <when fighting in [Friendly Land] tiles>"],
                 "promotions": ["Simple Man"],
-		"attackSound": "throw"
+		"attackSound": "throw",
+"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Isaurian Marauder",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "One wonders, what it is about the Southern mountains of Anatolia that make these fuckers so mad?"
+			}
+		]
 	},
 {
 		"name": "Rhomphaiaphoroi",
