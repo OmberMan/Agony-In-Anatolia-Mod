@@ -14,7 +14,19 @@
 		"uniques": ["[+50]% Strength <vs [Sword] units> <when attacking>", "[+50]% Strength <vs [Archery] units> <when attacking>", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>", "[-20]% Strength for enemy [Wounded] units in adjacent [Open terrain] tiles"],
 		"promotions": ["Shock I"],
                 "hurryCostModifier": 25,
-		"attackSound": "horse"
+		"attackSound": "horse",
+"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Scythed Chariot",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "Will it Blend?"
+			}
+		]
 	},
 {
 		"name": "Cappadocian Hillmen",
@@ -29,7 +41,19 @@
 		"obsoleteTech": "Steel",
 		"uniques": ["[+20]% Strength <after discovering [Iron Working]>", "No movement cost to pillage"],
                 "promotions": ["Simple Man"],
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
+"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Scythed Chariot",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "He's not a complicated man. 'Hellenization'? Doesn't sound like his thing. Zoro-What now? First time he's heard of it. He's never heard of this 'Pontic Kingdom'. Nor does he know what an Anatolian is. All he knows are the hills, his sheep, and the smiling faces of his family. The only thing missing is conscripting him to go die in some far-flung battle."
+			}
+		]
 	},
 {
 		"name": "Phrygian Vagabond",
