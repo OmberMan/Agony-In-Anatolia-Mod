@@ -44,7 +44,7 @@
 		"attackSound": "metalhit",
 "civilopediaText": [
 			{
-				"extraImage": "TileSets/FantasyHex/Units/Scythed Chariot",
+				"extraImage": "TileSets/FantasyHex/Units/Cappadocian Hillman",
 				"imageSize": 64
 			},
 			{
@@ -70,7 +70,19 @@
                 "promotions": ["[Phrygian Vagabond] ability"],
 		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "No movement cost to pillage", "Transfer Movement to [Civilian]"],
 		"hurryCostModifier": 20,
-		"attackSound": "horse"
+		"attackSound": "horse",
+"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Phrygian Vagabond",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "A vagabond never expects to die on a bed. All a free man wants is somewhere to come home to. Just someone to return to after his journeys."
+			}
+		]
 	},
 {
 		"name": "Hippomanchoi",        
@@ -87,7 +99,19 @@
                 "promotions": ["Shock I", "Good as Gold"],
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "[+20]% Strength <when above [99] HP>"],
 		"hurryCostModifier": 25,
-		"attackSound": "horse" 
+		"attackSound": "horse",
+"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Hippomanchoi",
+				"imageSize": 64
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "The Lydian cavalry? They're unsinkable, like the Titanic!"
+			}
+		]
 	},
 		{
 		"name": "Uazali",
