@@ -18,7 +18,7 @@
 "civilopediaText": [
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Scythed Chariot",
-				"imageSize": 64
+				"imageSize": 128
 			},
 			{
 				"Separator": true
@@ -44,14 +44,14 @@
 		"attackSound": "metalhit",
 "civilopediaText": [
 			{
-				"extraImage": "TileSets/FantasyHex/Units/Cappadocian Hillman",
-				"imageSize": 64
+				"extraImage": "TileSets/FantasyHex/Units/Cappadocian Hillmen",
+				"imageSize": 128
 			},
 			{
 				"Separator": true
 			},
 			{
-				"text": "He's not a complicated man. 'Hellenization'? Doesn't sound like his thing. Zoro-What now? First time he's heard of it. He's never heard of this 'Pontic Kingdom'. Nor does he know what an Anatolian is. All he knows are the hills, his sheep, and the smiling faces of his family. The only thing missing is conscripting him to go die in some far-flung battle."
+				"text": "He's not a complicated man. \n'Hellenization'? Doesn't sound like his thing. \nZoro-What now? First time he's heard of it. \nHe doesn't know a thing about this 'Pontic Kingdom'. Nor does he know what an Anatolian is. \nAll he knows are the hills, his sheep, and the smiling faces of his family. The only thing missing is conscripting him to go die in some far-flung battle."
 			}
 		]
 	},
@@ -74,13 +74,13 @@
 "civilopediaText": [
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Phrygian Vagabond",
-				"imageSize": 64
+				"imageSize": 128
 			},
 			{
 				"Separator": true
 			},
 			{
-				"text": "A vagabond never expects to die on a bed. All a free man wants is somewhere to come home to. Just someone to return to after his journeys."
+				"text": "A vagabond never expects to die on a bed. All a free man wants is a place to come home to. Just someone to return to after his journeys."
 			}
 		]
 	},
@@ -103,7 +103,7 @@
 "civilopediaText": [
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Hippomanchoi",
-				"imageSize": 64
+				"imageSize": 128
 			},
 			{
 				"Separator": true
@@ -129,13 +129,13 @@
 "civilopediaText": [
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Uazali",
-				"imageSize": 64
+				"imageSize": 128
 			},
 			{
 				"Separator": true
 			},
 			{
-				"text": "Come on... \nLet's all get into the tent now. \nI wanna fire a rocket launcher \nInto some innocent civilians. \nI wanna join up \nTo drive around in a fucking Tomahawk... \nHelecopters shoot missiles into the fucking ground \nLet's Join the Army, \nLeeets \nLets all Join the Army"
+				"text": "Come on... \nLet's all get into the tent now. \nI wanna fire a rocket launcher \nInto some innocent civilians. \nI wanna join up \nAnd drive around in a fucking Tomahawk... \nHelecopters shoot missiles into the fucking ground. \nLet's Join the Army, \nLe-et's \nLet's all Join the Army"
 			}
 		]
 	},
@@ -174,13 +174,13 @@
 "civilopediaText": [
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Isaurian Marauder",
-				"imageSize": 64
+				"imageSize": 128
 			},
 			{
 				"Separator": true
 			},
 			{
-				"text": "One wonders, what it is about the Southern mountains of Anatolia that make these fuckers so mad?"
+				"text": "One must wonder; what it is about the Southern mountains of Anatolia that make these assholes so mad?"
 			}
 		]
 	},
@@ -197,6 +197,18 @@
 		"obsoleteTech": "Steel",
 		"uniques": ["[+25]% Strength <when attacking>", "[+25]% Strength <vs [Mounted] units>"],
                 "requiredResource": "Iron",
-		"attackSound": "metalhit"
+		"attackSound": "metalhit",
+"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Scythed Chariot",
+				"imageSize": 128
+			},
+			{
+				"Separator": true
+			},
+			{
+				"text": "A Thracian thinks himself the strongest of all men. He is wrong. That would be a Thracian who bathes."
+			}
+		]
 	},
   ]
