@@ -6,7 +6,7 @@
 	        "production": 6,
 	        "gold": 10,
 	        "culture": 4,
-	        "science": 7,
+	        "science": 6,
 	        "faith": 4,
 	        "military": 3,
 	        "warMongering": 4
@@ -27,12 +27,12 @@
 		"name": "Mithridates",
 		"preferredVictoryType": "Diplomatic",
 	        "food": 5,
-	        "production": 7,
+	        "production": 6,
 	        "gold": 8,
 	        "culture": 7,
 	        "science": 7,
 	        "faith": 2,
-	        "military": 7,
+	        "military": 8,
 	        "warMongering": 9
 	},
 	{
@@ -43,7 +43,7 @@
 	        "gold": 8,
 	        "culture": 7,
 	        "science": 5,
-	        "faith": 5,
+	        "faith": 4,
 	        "military": 6,
 	        "warMongering": 4
 	},
@@ -67,8 +67,8 @@
 	        "gold": 3,
 	        "culture": 4,
 	        "science": 2,
-	        "faith": 5,
-	        "military": 8,
+	        "faith": 3,
+	        "military": 7,
 	        "warMongering": 8
 	},
 ]
