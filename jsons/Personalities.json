@@ -3,13 +3,13 @@
 		"name": "Croesus",
 		"preferredVictoryType": "Diplomatic",
 	        "food": 5,
-	        "production": 6,
+	        "production": 7,
 	        "gold": 10,
 	        "culture": 4,
 	        "science": 6,
 	        "faith": 4,
 	        "military": 3,
-	        "warMongering": 4
+	        "warMongering": 5,
 "priorities": {
     "Commerce": 30,
     "Patronage": 10
@@ -19,13 +19,13 @@
 		"name": "Midas",
 		"preferredVictoryType": "Neutral",
 	        "food": 4,
-	        "production": 5,
+	        "production": 4,
 	        "gold": 9,
-	        "culture": 8,
+	        "culture": 7,
 	        "science": 5,
 	        "faith": 7,
 	        "military": 4,
-	        "warMongering": 5
+	        "warMongering": 5,
 "priorities": {
     "Tradition": 10,
     "Liberty": 20,
@@ -37,13 +37,13 @@
 		"name": "Mithridates",
 		"preferredVictoryType": "Diplomatic",
 	        "food": 5,
-	        "production": 6,
-	        "gold": 8,
+	        "production": 5,
+	        "gold": 7,
 	        "culture": 7,
-	        "science": 7,
-	        "faith": 2,
+	        "science": 6,
+	        "faith": 3,
 	        "military": 8,
-	        "warMongering": 9
+	        "warMongering": 9,
 "priorities": {
     "Commerce": 10,
     "Patronage": 10,
@@ -61,7 +61,7 @@
 	        "science": 5,
 	        "faith": 4,
 	        "military": 6,
-	        "warMongering": 4
+	        "warMongering": 4,
 "priorities": {
     "Liberty": 10,
     "Honor": 10,
@@ -80,7 +80,7 @@
 	        "science": 4,
 	        "faith": 6,
 	        "military": 6,
-	        "warMongering": 6
+	        "warMongering": 6,
 	},
 	{
 		"name": "Isaurian",
@@ -92,7 +92,7 @@
 	        "science": 2,
 	        "faith": 3,
 	        "military": 7,
-	        "warMongering": 8
+	        "warMongering": 8,
 "priorities": {
     "Tradition": 30,
     "Honor": 20
