@@ -20,7 +20,7 @@
 		"specialistSlots": {"Merchant": 2},
                 "food": 0,
                 "production": 1,
-                "percentStatBonus": {"production": 15, "gold": 15},
+                "percentStatBonus": {"gold": 35},
 		"uniques": ["[+1 Gold] from every specialist [in this city]", "Must be on [River]",
 			"[+1 Production] <with [Silver]>", "[+1 Production] <with [Gold Ore]>"],
 	       	"requiredTech": "Currency"
