@@ -11,9 +11,9 @@
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["[+50]% Strength <vs [Sword] units> <when attacking>", "[+50]% Strength <vs [Archery] units> <when attacking>", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>", "[-20]% Strength for enemy [Wounded] units in adjacent [Open terrain] tiles"],
-		"promotions": ["Shock I"],
-                "hurryCostModifier": 25,
+		"uniques": ["[+33]% Strength <vs [Sword] units> <when attacking>", "[+33]% Strength <vs [Archery] units> <when attacking>", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>", "[-20]% Strength for enemy [Wounded] units in adjacent [Open terrain] tiles"],
+		"promotions": ["Shock I", "Shock II"],
+                "hurryCostModifier": 30,
 		"attackSound": "horse",
 "civilopediaText": [
 			{
