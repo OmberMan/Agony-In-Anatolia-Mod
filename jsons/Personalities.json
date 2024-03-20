@@ -1,14 +1,74 @@
 [
 {
 		"name": "Croesus",
-		"uniques": ["[+20]% Strength <when fighting in [Hill] tiles>", "[+2] Movement <in [Hill] tiles>", "Can construct [Pasture]"]
+		"preferredVictoryType": "Diplomatic",
+	        "food": 5,
+	        "production": 6,
+	        "gold": 10,
+	        "culture": 4,
+	        "science": 7,
+	        "faith": 4,
+	        "military": 3,
+	        "warMongering": 4
 	},
 {
-		"name": "[Phrygian Vagabond] ability",
-		"uniques": ["[+1] Movement <in [Foreign Land] tiles>", "[+33]% XP gained from combat <when adjacent to a [Great] unit>"]
+		"name": "Midas",
+		"preferredVictoryType": "Neutral",
+	        "food": 4,
+	        "production": 5,
+	        "gold": 9,
+	        "culture": 8,
+	        "science": 5,
+	        "faith": 7,
+	        "military": 4,
+	        "warMongering": 5
 	},
 {
-		"name": "Good as Gold",
-		"uniques": ["[+15]% Strength <during a Golden Age>"]
+		"name": "Mithridates",
+		"preferredVictoryType": "Diplomatic",
+	        "food": 5,
+	        "production": 7,
+	        "gold": 8,
+	        "culture": 7,
+	        "science": 7,
+	        "faith": 2,
+	        "military": 7,
+	        "warMongering": 9
+	},
+	{
+		"name": "Nicomedes",
+		"preferredVictoryType": "Neutral",
+	        "food": 4,
+	        "production": 5,
+	        "gold": 8,
+	        "culture": 7,
+	        "science": 5,
+	        "faith": 5,
+	        "military": 6,
+	        "warMongering": 4
+	},
+	{
+		"name": "Mausolus",
+		"preferredVictoryType": "Neutral",
+	        "food": 3,
+	        "production": 6,
+	        "gold": 5,
+	        "culture": 2,
+	        "science": 4,
+	        "faith": 6,
+	        "military": 6,
+	        "warMongering": 6
+	},
+	{
+		"name": "Isaurian",
+		"preferredVictoryType": "Neutral",
+	        "food": 5,
+	        "production": 6,
+	        "gold": 3,
+	        "culture": 4,
+	        "science": 2,
+	        "faith": 5,
+	        "military": 8,
+	        "warMongering": 8
 	},
 ]
