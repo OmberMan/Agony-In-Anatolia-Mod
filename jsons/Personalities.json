@@ -1,100 +1,414 @@
 [
 {
-		"name": "Croesus",
+		"name": "Phyrrhus",
+		"preferredVictoryType": "Domination",
+	        "food": 3,
+	        "production": 7,
+	        "gold": 3,
+	        "culture": 5,
+	        "science": 5,
+	        "faith": 7,
+	        "military": 9,
+	        "warMongering": 9,
+"priorities": {
+    "Liberty": 10,
+    "Honor": 10,
+    "Piety": 10,
+    "Exploration": 10
+}
+	},
+{
+		"name": "Ateas",
+		"preferredVictoryType": "Domination",
+	        "food": 4,
+	        "production": 4,
+	        "gold": 7,
+	        "culture": 7,
+	        "science": 3,
+	        "faith": 5,
+	        "military": 7,
+	        "warMongering": 8,
+"priorities": {
+    "Liberty": 10,
+    "Honor": 20,
+}
+	},
+{
+		"name": "Gandhi",
+		"preferredVictoryType": "Cultural",
+	        "food": 10,
+	        "production": 3,
+	        "gold": 5,
+	        "culture": 9,
+	        "science": 7,
+	        "faith": 9,
+	        "military": 2,
+	        "warMongering": 1,
+"priorities": {
+    "Tradition": 20,
+    "Piety": 10,
+    "Aesthetics": 10
+}
+	},
+	{
+		"name": "Nebuchadnezzar",
+		"preferredVictoryType": "Scientific",
+	        "food": 8,
+	        "production": 6,
+	        "gold": 5,
+	        "culture": 6,
+	        "science": 7,
+	        "faith": 8,
+	        "military": 5,
+	        "warMongering": 3,
+"priorities": {
+    "Tradition": 20,
+    "Piety": 20,
+    "Rationalism": 20,
+    "Patronage": 10,
+    "Order": 10
+}
+	},
+	{
+		"name": "Gediminas",
+		"preferredVictoryType": "Neutral",
+	        "food": 5,
+	        "production": 3,
+	        "gold": 5,
+	        "culture": 6,
+	        "science": 2,
+	        "faith": 8,
+	        "military": 6,
+	        "warMongering": 6,
+"priorities": {
+    "Tradition": 10,
+    "Piety": 20
+}
+	},
+	{
+		"name": "Hiram",
 		"preferredVictoryType": "Diplomatic",
 	        "food": 5,
-	        "production": 7,
+	        "production": 5,
+	        "gold": 10,
+	        "culture": 5,
+	        "science": 7,
+	        "faith": 3,
+	        "military": 3,
+	        "warMongering": 2,
+"priorities": {
+    "Commerce": 50,
+    "Exploration": 60,
+    "Patronage": 20
+}
+	},
+{
+		"name": "Sayid",
+		"preferredVictoryType": "Neutral",
+	        "food": 3,
+	        "production": 2,
 	        "gold": 10,
 	        "culture": 4,
-	        "science": 6,
+	        "science": 4,
 	        "faith": 4,
-	        "military": 3,
+	        "military": 2,
+	        "warMongering": 6,
+"priorities": {
+    "Commerce": 30
+}
+	},
+{
+		"name": "Gilgamesh",
+		"preferredVictoryType": "Scientific",
+	        "food": 9,
+	        "production": 6,
+	        "gold": 4,
+	        "culture": 7,
+	        "science": 6,
+	        "faith": 7,
+	        "military": 5,
+	        "warMongering": 4,
+"priorities": {
+    "Piety": 10,
+    "Aesthetics": 10
+}
+	}, 
+{
+		"name": "Evenor",
+		"preferredVictoryType": "Scientific",
+	        "food": 5,
+	        "production": 3,
+	        "gold": 7,
+	        "culture": 8,
+	        "science": 9,
+	        "faith": 2,
+	        "military": 4,
+	        "warMongering": 2,
+"priorities": {
+    "Liberty": 20,
+    "Rationalism": 40,
+    "Aesthetics": 40,
+    "Exploration": 70,
+    "Patronage": 10
+}
+	},
+{
+		"name": "Hiawatha",
+		"preferredVictoryType": "Diplomatic",
+	        "food": 6,
+	        "production": 7,
+	        "gold": 3,
+	        "culture": 6,
+	        "science": 4,
+	        "faith": 5,
+	        "military": 6,
 	        "warMongering": 5,
 "priorities": {
+    "Liberty": 10,
+    "Tradition": 10,
+    "Patronage": 10
+}
+	},
+{
+		"name": "Dido",
+		"preferredVictoryType": "Domination",
+	        "food": 5,
+	        "production": 5,
+	        "gold": 9,
+	        "culture": 3,
+	        "science": 4,
+	        "faith": 3,
+	        "military": 6,
+	        "warMongering": 7,
+"priorities": {
+    "Commerce": 50,
+    "Exploration": 50,
+    "Patronage": 20
+}
+	},
+{
+		"name": "Gajah Mada",
+		"preferredVictoryType": "Neutral",
+	        "food": 5,
+	        "production": 3,
+	        "gold": 6,
+	        "culture": 5,
+	        "science": 3,
+	        "faith": 6,
+	        "military": 4,
+	        "warMongering": 5,
+"priorities": {
+    "Exploration": 40,
+    "Piety": 10,
     "Commerce": 30,
     "Patronage": 10
 }
 	},
 {
-		"name": "Midas",
-		"preferredVictoryType": "Neutral",
+		"name": "Kamehameha",
+		"preferredVictoryType": "Cultural",
 	        "food": 4,
-	        "production": 4,
-	        "gold": 9,
+	        "production": 2,
+	        "gold": 5,
+	        "culture": 9,
+	        "science": 4,
+	        "faith": 4,
+	        "military": 3,
+	        "warMongering": 4,
+"priorities": {
+    "Exploration": 50,
+    "Honor": 20,
+    "Liberty": 20,
+    "Freedom": 10
+}
+	},
+{
+		"name": "Boudicca",
+		"preferredVictoryType": "Domination",
+	        "food": 5,
+	        "production": 5,
+	        "gold": 4,
 	        "culture": 7,
 	        "science": 5,
 	        "faith": 7,
-	        "military": 4,
-	        "warMongering": 5,
+	        "military": 7,
+	        "warMongering": 8,
 "priorities": {
-    "Tradition": 10,
-    "Liberty": 20,
-    "Commerce": 20,
+    "Tradition": 20,
+    "Honor": 30,
     "Exploration": 10
 }
 	},
 {
-		"name": "Mithridates",
-		"preferredVictoryType": "Diplomatic",
+		"name": "Ramesses",
+		"preferredVictoryType": "Cultural",
+	        "food": 10,
+	        "production": 7,
+	        "gold": 6,
+	        "culture": 7,
+	        "science": 6,
+	        "faith": 8,
+	        "military": 4,
+	        "warMongering": 3,
+"priorities": {
+    "Tradition": 30,
+    "Piety": 50,
+    "Aesthetics": 10,
+    "Order": 20
+}
+	},
+	{
+		"name": "Attila",
+		"preferredVictoryType": "Domination",
+	        "food": 1,
+	        "production": 5,
+	        "gold": 8,
+	        "culture": 2,
+	        "science": 4,
+	        "faith": 1,
+	        "military": 10,
+	        "warMongering": 10,
+"priorities": {
+    "Autocracy": 20
+}
+	},
+	{
+		"name": "Harun al-Rashid",
+		"preferredVictoryType": "Cultural",
+	        "food": 4,
+	        "production": 3,
+	        "gold": 7,
+	        "culture": 7,
+	        "science": 7,
+	        "faith": 8,
+	        "military": 5,
+	        "warMongering": 5,
+"priorities": {
+    "Tradition": 20,
+    "Liberty": 10,
+    "Piety": 30,
+    "Rationalism": 20,
+    "Commerce": 30,
+    "Patronage": 10
+}
+	},
+	{
+		"name": "U Kix Chan",
+		"preferredVictoryType": "Scientific",
 	        "food": 5,
 	        "production": 5,
-	        "gold": 7,
+	        "gold": 3,
+	        "culture": 5,
+	        "science": 7,
+	        "faith": 7,
+	        "military": 2,
+	        "warMongering": 3,
+"priorities": {
+    "Piety": 20
+}
+	},
+{
+		"name": "Olori",
+		"preferredVictoryType": "Scientific",
+	        "food": 5,
+	        "production": 7,
+	        "gold": 6,
+	        "culture": 6,
+	        "science": 7,
+	        "faith": 4,
+	        "military": 2,
+	        "warMongering": 3,
+"priorities": {
+    "Aesthetics": 20
+}
+	},
+{
+		"name": "Suryavarman",
+		"preferredVictoryType": "Diplomatic",
+	        "food": 7,
+	        "production": 8,
+	        "gold": 6,
+	        "culture": 7,
+	        "science": 6,
+	        "faith": 6,
+	        "military": 3,
+	        "warMongering": 3,
+"priorities": {
+    "Tradition": 20,
+    "Piety": 20,
+    "Commerce": 10,
+    "Patronage": 40,
+    "Aesthetics": 20,
+    "Order": 20
+}
+	},
+	{
+		"name": "Songtsen Gampo",
+		"preferredVictoryType": "Cultural",
+	        "food": 5,
+	        "production": 3,
+	        "gold": 4,
+	        "culture": 8,
+	        "science": 3,
+	        "faith": 8,
+	        "military": 3,
+	        "warMongering": 5,
+"priorities": {
+    "Tradition": 10,
+    "Piety": 30,
+}
+	},
+	{
+		"name": "Charibael",
+		"preferredVictoryType": "Neutral",
+	        "food": 4,
+	        "production": 4,
+	        "gold": 9,
+	        "culture": 3,
+	        "science": 5,
+	        "faith": 6,
+	        "military": 4,
+	        "warMongering": 7,
+"priorities": {
+    "Commerce": 50,
+    "Piety": 20,
+    "Patronage": 10
+}
+	},
+	{
+		"name": "Casca",
+		"preferredVictoryType": "Diplomatic",
+	        "food": 4,
+	        "production": 4,
+	        "gold": 6,
 	        "culture": 7,
 	        "science": 6,
 	        "faith": 3,
-	        "military": 8,
-	        "warMongering": 9,
+	        "military": 6,
+	        "warMongering": 3,
 "priorities": {
-    "Commerce": 10,
-    "Patronage": 10,
-    "Aesthetics": 10,
-    "Rationalism": 5
+    "Liberty": 80,
+    "Exploration": 20
+    "Honor": 10,
+    "Rationalism": 10,
+    "Freedom": 10
 }
 	},
-	{
-		"name": "Nicomedes",
-		"preferredVictoryType": "Neutral",
-	        "food": 4,
-	        "production": 5,
-	        "gold": 7,
+{
+		"name": "Catherine",
+		"preferredVictoryType": "Domination",
+	        "food": 8,
+	        "production": 7,
+	        "gold": 5,
 	        "culture": 6,
 	        "science": 5,
-	        "faith": 4,
-	        "military": 6,
-	        "warMongering": 4,
-"priorities": {
-    "Liberty": 10,
-    "Honor": 10,
-    "Patronage": 10
-    "Exploration": 10
-}
-	},
-	{
-		"name": "Mausolus",
-		"preferredVictoryType": "Neutral",
-	        "food": 3,
-	        "production": 6,
-	        "gold": 5,
-	        "culture": 2,
-	        "science": 4,
-	        "faith": 6,
-	        "military": 6,
-	        "warMongering": 6,
-	},
-	{
-		"name": "Isaurian",
-		"preferredVictoryType": "Neutral",
-	        "food": 5,
-	        "production": 6,
-	        "gold": 3,
-	        "culture": 4,
-	        "science": 2,
-	        "faith": 3,
+	        "faith": 5,
 	        "military": 7,
-	        "warMongering": 8,
+	        "warMongering": 7,
 "priorities": {
-    "Tradition": 30,
-    "Honor": 20
+    "Order": 40,
+    "Autocracy": 10,
+    "Rationalism": 10
 }
-	},
+	}
 ]
