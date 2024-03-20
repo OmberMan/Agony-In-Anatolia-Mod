@@ -26,7 +26,7 @@
 		"name": "Caria",
 		"leaderName": "Mausoleus",
 		"adjective": ["Carian"],
-		"startBias": ["Hill"],
+		"startBias": ["Hill", "Coast"],
     "style": "Mediterranean",
     "preferredVictoryType": "Neutral",
 
@@ -133,7 +133,7 @@
     "neutralHello":"How is it over there?", 
     "outerColor":[41,5,201],
     "preferredVictoryType":"Diplomatic",
-    "startBias":["Coast"],
+    "startBias":["Coast", "Forest"],
     "startIntroPart1":"Imagine living and dying in service of your country and people, and they end up mostly remembered for politically motivated foreign rumors about their late elderly king railing a young man whom he acted like a father towards. Anyways if you're reading this dogshit I'll never know, but if I did I'd be pretty surprised and also happy someone else is actually playing these mods. I hope you get some enjoyment outta them, thanks.","startIntroPart2":"fucking losing it rn bestie",
     "tradeRequest":"War is a game of winners and losers, but commerce strengthens all who choose to partake in it.",
     "uniques":["[+2 Gold] from every [Barracks]", "[+2 Gold] from every [Armory]", "[+2 Gold] from every [Military Academy]", "[+2 Gold] from every [Heroic Epic]", "Gain [25]-[150] [Culture] <upon declaring friendship> <when not at war>", "[2] free [Warrior] units appear <upon declaring friendship> <when at war> <during the [Ancient era]>", "[2] free [Warrior] units appear <upon declaring friendship> <when at war> <during the [Classical era]>", "[3] free [Warrior] units appear <upon declaring friendship> <when at war> <during the [Medieval era]>", "[3] free [Musketman] units appear <upon declaring friendship> <when at war> <during the [Renaissance era]>", "[4] free [Rifleman] units appear <upon declaring friendship> <when at war> <during the [Industrial era]>", "[4] free [Infantry] units appear <upon declaring friendship> <when at war> <starting from the [Modern era]>", "Gain [25]-[150] [Gold] <upon founding a city>", "[+15]% Production when constructing [All] buildings [in all cities] <during a Golden Age>", "[+15]% Production when constructing [All] buildings [in capital] <during a Golden Age>", "[+15]% Production when constructing [All] buildings [in all coastal cities] <during a Golden Age>", "[+15]% Production when constructing [All] buildings [in annexed cities] <during a Golden Age>"],
