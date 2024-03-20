@@ -1,7 +1,7 @@
 [
 {
 		"name": "Simple Man",
-		"uniques": ["[+20]% Strength <when fighting in [Hill] tiles>", "Double Movement in [Hill]", "Can construct [Pasture]"]
+		"uniques": ["[+20]% Strength <when fighting in [Hill] tiles>", "[+2] Movement <in [Hill] tiles>", "Can construct [Pasture]"]
 	},
 {
 		"name": "[Phrygian Vagabond] ability",
