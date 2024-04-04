@@ -11,7 +11,7 @@
                 "military": 3,
                 "warMongering": 5,
 "priorities": {
-    "Commerce": 30,
+    "Commerce": 50,
     "Patronage": 20,
     "Rationalism": 10
 }
@@ -21,17 +21,18 @@
                 "preferredVictoryType": "Neutral",
                 "food": 4,
                 "production": 4,
-                "gold": 9,
+                "gold": 10,
                 "culture": 7,
                 "science": 5,
-                "faith": 7,
+                "faith": 6,
                 "military": 4,
-                "warMongering": 5,
+                "warMongering": 6,
 "priorities": {
-    "Tradition": 10,
     "Liberty": 20,
     "Commerce": 20,
-    "Exploration": 10
+    "Exploration": 10,
+    "Freedom": 10,
+    "Aesthetics": 10
 }
         },
 {
@@ -60,7 +61,7 @@
                 "gold": 7,
                 "culture": 6,
                 "science": 5,
-                "faith": 4,
+                "faith": 3,
                 "military": 6,
                 "warMongering": 4,
 "priorities": {
