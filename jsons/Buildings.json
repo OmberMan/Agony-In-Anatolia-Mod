@@ -5,9 +5,9 @@
                 "replaces": "Grand Temple",
                 "uniqueTo": "Phrygia",
 		"culture": 1,
-		"faith": 4,
-		"uniques": ["Requires a [Temple] in all cities", "Cost increases by [30] per owned city", "[+1 Faith] from [unimproved] tiles without [Water] [in this city]", "Can only be built [in all cities in which the majority religion is a major religion]",
-			"[+100]% Natural religion spread [in this city]", "Hidden when religion is disabled", "[+10]% growth [in this city]", "All newly-trained [Melee] units [in this city] receive the [Drill I] promotion <with [15]% chance>"],
+		"faith": 6,
+		"uniques": ["Requires a [Temple] in all cities", "Cost increases by [30] per owned city", "[+1 Faith] from [Land] tiles without [improvement] [in this city]", "Can only be built [in all cities in which the majority religion is a major religion]",
+			"[+100]% Natural religion spread [in this city]", "Hidden when religion is disabled", "[+20]% growth [in this city]", "All newly-trained [Melee] units [in this city] receive the [Drill I] promotion <with [15]% chance>"],
 	       	"requiredTech": "Philosophy",
 		"isNationalWonder": true
 	},
@@ -20,7 +20,7 @@
 		"specialistSlots": {"Merchant": 2},
                 "food": 0,
                 "production": 1,
-                "percentStatBonus": {"gold": 35},
+                "percentStatBonus": {"gold": 20},
 		"uniques": ["[+1 Gold] from every specialist [in this city]", "Must be on [River]",
 			"[+1 Production] <with [Silver]>", "[+1 Production] <with [Gold Ore]>"],
 	       	"requiredTech": "Currency"
@@ -34,7 +34,7 @@
 		"cityHealth": 80,
 		"hurryCostModifier": 10,
 		"requiredTech": "Mining",
-		"uniques": ["Destroyed when the city is captured", "Excess Food converted to Production when under construction", "[+10]% Food is carried over after population increases [in this city] <when at war>"]
+		"uniques": ["Destroyed when the city is captured", "Excess Food converted to Production when under construction", "[+30]% Food is carried over after population increases [in this city] <when at war>"]
 	},
 	{
 		"name": "Proponitc Port",
