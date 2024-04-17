@@ -179,7 +179,7 @@ UnitIcons/Cappadocian Hillmen
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Gyroblimp
+ReligionIcons/Cybeline
   rotate: false
   xy: 940, 940
   size: 64, 64
