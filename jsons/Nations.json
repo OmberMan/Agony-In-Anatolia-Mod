@@ -10,9 +10,9 @@
    "favoredReligion":"Zoroastrianism",
    "declaringWar":"You absolute fucking idiot.  \nYou complete moron.\nI can't believe you fell for it.\n\nI wish I could see the look on your face right now. \nPlayed like a lyre.\nI'd suggest you go ahead and fall on your sword, spare me the trouble.",
 //You just got Adriatic Vespered.
-   "attacked":"Oh no no no, what? \nYou filthy barbarian troglodyte! \nYou think you can screw me like this?\n\nI'm chosen by the gods, you idiot-\n-Mithras, hero almighty, walking the Earth in human skin! \n\nYou're gonna regret this you freak shit.",
+   "attacked":"No no no, what? \n\nI I'm chosen by the gods you freak shit. \n\nYou're gonna regret this.",
    "defeated":"aahh \n  ahh \n\nyuor too late\n                  ohahhw\n\nno poisoncan          get   mno                       you babr\n   a  \n     \n   pioson \n        I'm                 \nimmune\n    to every nown \n      toman\nno   you no\n \n \n   led               doest\n  you mron\n      rance   \naa like       lead im    come\n    likincinible   like lededd \n                         im \n jdas\n \n     youll\n not you n  nnn \n n \n   n n n nnn       wont take   nme all\n     ive",
-   "introduction":"Ah, I was not expecting such... esteemed guests; \nno matter, I shall make time. \nThe Great King Mithradates, fourth of my name, welcomes you to the Kingdom of Pontus\n...\nYou've not heard of my exalted bloodline? \nAh, remind me, did you say you were Persian or Greek?",
+   "introduction":"Ah, I was not expecting such... esteemed guests; \nno matter, I shall make time. \nI, The Great King Mithradates, sixth of my name, welcomes you to Pontus\n...\nYou haven't heard of my exalted bloodline? \nRemind me, did you say you were Persian or Greek?",
    "neutralHello":"What might the humble Mithridates do for you, friend...?",
    "hateHello":"Oh my Gods... \nI'm speechless. Absolutely dumbfounded. \nWhat could drive so many foreign peoples \nto butcher their friends, neighbors, countrymen, just for \nspeaking the tongue of your people? \nI'm sorry, I'm beyond words, truly. We've had a \ncouple squabbles in the past, but \nyou must've recognized mindless \nbarbarity as this is something I \ncould never abide. And by those pretending they were your allies \no less, I don't even feel like I \nknow this land anymore. I \npromise I'll do what's in my \npower to see these debased massacres end at\n once. A tragedy, really. \nMy deepest condolences.",
    "tradeRequest":"I come to share the riches of the Silk Road with you\nand your nation alone; \nfor only a fool would turn down this deal and \nI know you to be wise above any other ruler",
@@ -45,7 +45,7 @@
 		"neutralHello": "Ah, you came to Caria.",
 		"hateHello": "You're looking down on me aren't you?",
 
-		"tradeRequest": "You need fighting men? \nBecause Karian mercenaries are some of the fighters in the entire Mediterranean. \nGods' know we need even more foreign influence.",
+		"tradeRequest": "You need fighting men? \nBecause Karian mercenaries are some of the fighters in the whole Mediterranean.",
 
 		"outerColor": [225,214,196],
 		"innerColor": [176,70,138],
@@ -61,7 +61,7 @@
     "personality": "Midas", 
     "attacked":"I understand you're upset about your children and all, but was he really that bad of a cook?",
     "cities":["Gordian","Midas","Pessinus", "Ancyra", "Aizanoi", "Acmonia", "Akroinon", "Laodicea on the Lycus", "Greater Sardis"],
-    "declaringWar":"Oh? Is that by chance Gold sitting up there in your UI? \nI'm afraid Phyriga must return to its raiding roots until I relive you of it.",
+    "declaringWar":"Oh? Is that by chance Gold sitting up there in your UI? \nLet me relive you of it.",
     "defeated":"Egads... \nJust as in the tale of Attis, \nas punishment for my pride, my exquisiteness, and my beatitude, the Great Mother Cybele has sent madness to me- \nchaos in the guise of savages to destroy my Phrygia. \nFuck her. Petty bitch. \n\nShe's just jealous.",
     "hateHello":"Hmm? Come to befoul the illustrious King Midas with your filthy presence? \nYou're wasting my time; gold is stainless.",
     "innerColor":[138,189,47],
@@ -71,7 +71,7 @@
     "outerColor":[170,46,74],
     "preferredVictoryType":"Neutral",
 "favoredReligion":"Christianity",
-    "startBias":["Iron", "Hill"],
+    "startBias":["Gold"],
     "startIntroPart1":"I find the Phrygians and Thracians fascinating. They were the platonic ideal of barbarians, but still made time for music, fashion, and wine, when the latter culture were spoken of as among the greatest warriors of antiquity. That's it.",
     "tradeRequest":"I assure you, a handshake is all will it take \nfor me to make you a fabulous amount of wealth.",
     "uniques":["[+1 Gold] from [Mine] tiles [in all cities] <during a Golden Age>", "[+1 Gold] from [Mine] tiles [in all cities]", "[+1 Gold, +1 Production, +1 Culture] from [Iron] tiles [in all cities]", "[+1 Gold, +1 Culture] from [Gold Ore] tiles [in all cities]", "[+1 Gold, +1 Culture] from every [Culture] <in cities with a [Forge]>", "[+1 Gold, +1 Culture] from every [Culture] <in cities with a [Mint]>"],
