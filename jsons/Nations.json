@@ -74,7 +74,7 @@
     "startBias":["Gold"],
     "startIntroPart1":"I find the Phrygians and Thracians fascinating. They were the platonic ideal of barbarians, but still made time for music, fashion, and wine, when the latter culture were spoken of as among the greatest warriors of antiquity. That's it.",
     "tradeRequest":"I assure you, a handshake is all will it take \nfor me to make you a fabulous amount of wealth.",
-    "uniques":["[+1 Gold] from [Mine] tiles [in all cities] <during a Golden Age>", "[+1 Gold] from [Mine] tiles [in all cities]", "[+1 Gold, +1 Production, +1 Culture] from [Iron] tiles [in all cities]", "[+1 Gold, +1 Culture] from [Gold Ore] tiles [in all cities]", "[+1 Gold, +1 Culture] from every [Culture] <in cities with a [Forge]>", "[+1 Gold, +1 Culture] from every [Culture] <in cities with a [Mint]>"],
+    "uniques":["[+1 Gold] from [Mine] tiles [in all cities] <during a Golden Age>", "[+1 Gold] from [Mine] tiles [in all cities]", "[+1 Gold, +1 Production, +1 Culture] from [Iron] tiles [in all cities]", "[+1 Gold, +1 Culture] from [Gold Ore] tiles [in all cities]", "[+1 Production] from [{Road} {Trading Post}] tiles [in all cities] <in cities with a [Forge]>", "[+1 Gold] from [{Road} {Trading Post}] tiles [in all cities] <in cities with a [Mint]>"],
     "uniqueText":"+1 [Gold], +1 [Culture] from [Gold Ore] and [Iron] tiles, and from every Artist in a city with a Mint or Forge. \n+1 [Gold] from every Mine, increasing to +2 [Gold] during a Golden Age.",
     "uniqueName":"Magna Mater" 
 },
