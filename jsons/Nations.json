@@ -8,7 +8,7 @@
    "preferredVictoryType":"Diplomatic",
    "startBias":["Coast"],
    "favoredReligion":"Zoroastrianism",
-   "declaringWar":"You absolute fucking idiot.  \nYou complete moron.\nI can't believe you fell for it.\n\nI wish I could see the look on your face right now. \nPlayed like a lyre.\nI'd suggest you go ahead and fall on your sword, spare me the trouble.",
+   "declaringWar":"You absolute fucking idiot.  \nYou complete moron.\nI can't believe you fell for it.\n\nI wish I could see the look on your face right now. \nPlayed you like a fucking lyre.\nWhy not go ahead and swan dive onto your sword right now, save me a couple weeks, huh?",
 //You just got Adriatic Vespered.
    "attacked":"No no no, what? \n\nI I'm chosen by the gods you freak shit. \n\nYou're gonna regret this.",
    "defeated":"aahh \n  ahh \n\nyuor too late\n                  ohahhw\n\nno poisoncan          get   mno                       you babr\n   a  \n     \n   pioson \n        I'm                 \nimmune\n    to every nown \n      toman\nno   you no\n \n \n   led               doest\n  you mron\n      rance   \naa like       lead im    come\n    likincinible   like lededd \n                         im \n jdas\n \n     youll\n not you n  nnn \n n \n   n n n nnn       wont take   nme all\n     ive",
@@ -37,9 +37,9 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "War is what men were made for. \nNature's irrelevant. \nThere's no point in fighting it.",
+		"declaringWar": "War is what men were made for. \nNature is irrelevant. \nThere's no point in fighting it.",
 		"attacked": "It's all the same old shit.",
-		"defeated": "I know we've had our differences, \nbut bro I really need you to do me a solid one last time. \nPlease take care of my sister after I'm gone: she's always been a very sentimental person \nwho's prone to pretty extreme depressive episodes and... erratic behavior, \nand I just want to make sure she isn't ruined by my death  and can move on one day. \nMake sure she doesn't do anything drastic or unhealthy while she's coping alright? \n\nThank you. \n\nWh...The what of Halicarnassus?",
+		"defeated": "I know we've had our differences, \nbut bro I really need you to do me a solid one last time. \nPlease, take care of my sister after I'm gone: she's always been a very sentimental person, \nprone to depressive episodes and... erratic behavior, \nand I just want to know she'll be ok after I'm gone, you know? \nThat she'll move on. \n\nLook, just, make sure she doesn't do anything drastic or unhealthy while she's grieving alright? \n\nThank you. \n\nWh...The what of Halicarnassus?",
 		"introduction": "Welcome to Caria. \n I am the ruler of this land, Mausoleus.",
 
 		"neutralHello": "Ah, you came to Caria.",
@@ -61,7 +61,7 @@
     "personality": "Midas", 
     "attacked":"I understand you're upset about your children and all, but was he really that bad of a cook?",
     "cities":["Gordian","Midas","Pessinus", "Ancyra", "Aizanoi", "Acmonia", "Akroinon", "Laodicea on the Lycus", "Greater Sardis"],
-    "declaringWar":"Oh? Is that by chance Gold sitting up there in your UI? \nLet me relive you of it.",
+    "declaringWar":"Oh? Is that by chance Gold I see up there in your UI? \nHow annoying that must be. \nYou must let me relive you of it.",
     "defeated":"Egads... \nJust like Attis, \nas punishment for my pride, my exquisiteness, and my beatitude, the Great Mother Cybele has sent madness to me- \n       sent chaos wearing the skins of your people to destroy my Phrygia. \n\n      Fuck her. Petty bitch. \n\nShe's just jealous.",
     "hateHello":"Hmm? Come to befoul the illustrious King Midas with your filthy presence? \nYou're wasting my time; gold is stainless.",
     "innerColor":[138,189,47],
@@ -74,8 +74,8 @@
     "startBias":["Gold"],
     "startIntroPart1":"I find the Phrygians and Thracians fascinating. They were the platonic ideal of barbarians, but still made time for music, fashion, and wine, when the latter culture were spoken of as among the greatest warriors of antiquity. That's it.",
     "tradeRequest":"I assure you, a handshake is all will it take \nfor me to make you a fabulous amount of wealth.",
-    "uniques":["[+1 Gold] from [Mine] tiles [in all cities] <during a Golden Age>", "[+1 Gold] from [Mine] tiles [in all cities]", "[+1 Gold, +1 Production, +1 Culture] from [Iron] tiles [in all cities]", "[+1 Gold, +1 Culture] from [Gold Ore] tiles [in all cities]", "[+1 Production] from [{Road} {Trading Post}] tiles [in all cities] <in cities with a [Forge]>", "[+1 Gold] from [{Road} {Trading Post}] tiles [in all cities] <in cities with a [Mint]>"],
-    "uniqueText":"+1 [Gold], +1 [Culture] from [Gold Ore] and [Iron] tiles, and from every Artist in a city with a Mint or Forge. \n+1 [Gold] from every Mine, increasing to +2 [Gold] during a Golden Age.",
+    "uniques":["[+1 Gold] from [Mine] tiles [in all cities] <during a Golden Age>", "[+1 Gold] from [Mine] tiles [in all cities]", "[+1 Gold, +1 Production, +1 Culture] from [Iron] tiles [in all cities]", "[+1 Gold, +1 Culture] from [Gold Ore] tiles [in all cities]", "[+1 Production] from [{Road} {Trading Post}] tiles [in all cities] <in cities with a [Forge]>", "[+1 Gold] from [{Road} {Trading Post}] tiles [in all cities] <in cities with a [Mint]>", "[-15]% Culture cost of natural border growth [in all cities] <in cities with a [Forge]>", "[-15]% Culture cost of natural border growth [in all cities] <in cities with a [Mint]>"],
+    "uniqueText":"+1 [Gold], +1 [Culture] from [Gold Ore] and [Iron] tiles. Cities with a Mint or Forge gain +1 [Culture] and [Gold] from Artists, +1 [Gold]/[Production] from Trading posts on roads, and +15% border growth speed. \n+1 [Gold] from every Mine, increasing to +2 [Gold] during a Golden Age.",
     "uniqueName":"Magna Mater" 
 },
 
