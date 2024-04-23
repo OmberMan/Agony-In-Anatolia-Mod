@@ -88,6 +88,13 @@ NationIcons/Pontus
   orig: 100, 100
   offset: 0, 0
   index: -1
+ReligionIcons/Cybeline
+  rotate: false
+  xy: 840, 584
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Cappadocian Hillmen
   rotate: false
   xy: 940, 900
