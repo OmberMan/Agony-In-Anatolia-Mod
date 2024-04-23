@@ -12,9 +12,9 @@
 		"obsoleteTech": "Metallurgy",
 		"requiredResource": "Horses",
 		"uniques": ["[+33]% Strength <vs [Sword] units> <when attacking>", "[+33]% Strength <vs [Archery] units> <when attacking>", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>", "[-20]% Strength for enemy [Wounded] units in adjacent [Open terrain] tiles"],
-		"promotions": ["Shock I", "Shock II"],
+		"promotions": ["Shock I"],
                 "hurryCostModifier": 30,
-		"attackSound": "horse",
+		"attackSound": "Scythe",
 "civilopediaText": [
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Scythed Chariot",
@@ -171,7 +171,7 @@
 		"obsoleteTech": "Steel",
 		"uniques": ["Destroys tile improvements when attacking", "Ignores Zone of Control", "Damage is ignored when determining unit Strength", "No movement cost to pillage", "[+20]% Strength <within [1] tiles of a [Mountain]>", "[+20]% Strength <when fighting in [Friendly Land] tiles>"],
                 "promotions": ["Simple Man"],
-		"attackSound": "throw",
+		"attackSound": "Stab",
 "civilopediaText": [
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Isaurian Marauder",
@@ -198,7 +198,7 @@
 		"obsoleteTech": "Steel",
 		"uniques": ["[+25]% Strength <when attacking>", "[+25]% Strength <vs [Mounted] units>"],
                 "requiredResource": "Iron",
-		"attackSound": "metalhit",
+		"attackSound": "Whoah",
 "civilopediaText": [
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Rhomphaiaphoroi",
