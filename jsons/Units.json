@@ -11,7 +11,7 @@
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["[+33]% Strength <vs [Sword] units> <when attacking>", "[+33]% Strength <vs [Archery] units> <when attacking>", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>", "[-20]% Strength for enemy [Wounded] units in adjacent [Open terrain] tiles"],
+		"uniques": ["[+33]% Strength <vs [Sword] units> <when attacking>", "[+33]% Strength <vs [Archery] units> <when attacking>", "[+33]% Strength <vs [Fortified] units> <when attacking>", "No defensive terrain bonus", "Rough terrain penalty", "[-33]% Strength <vs cities> <when attacking>", "[-10]% Strength for enemy [Wounded] units in adjacent [Open terrain] tiles"],
 		"promotions": ["Shock I"],
                 "hurryCostModifier": 30,
 		"attackSound": "Scythe",
@@ -124,7 +124,7 @@
 		"cost": 56,
 		"requiredTech": "Bronze Working",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+25]% Strength <vs [Mounted] units>", "Gain [5]-[10] [Gold] <upon defeating a [Military] unit> <when fighting in [Enemy Land] tiles>", "This Unit gains [3] XP <upon ending a turn in a [Foreign Land] tile>", "Can move immediately once bought"],
+		"uniques": ["[+25]% Strength <vs [Mounted] units>", "Gain [5]-[15] [Gold] <upon defeating a [Military] unit> <when fighting in [Enemy Land] tiles>", "This Unit gains [1] XP <upon ending a turn in a [Foreign Land] tile>", "Can move immediately once bought"],
 		"promotions": ["Drill I"],
 		"attackSound": "metalhit",
 "civilopediaText": [
@@ -169,7 +169,7 @@
 		"requiredTech": "Mining",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
-		"uniques": ["Destroys tile improvements when attacking", "Ignores Zone of Control", "Damage is ignored when determining unit Strength", "No movement cost to pillage", "[+20]% Strength <within [1] tiles of a [Mountain]>", "[+20]% Strength <when fighting in [Friendly Land] tiles>"],
+		"uniques": ["Destroys tile improvements when attacking", "Ignores Zone of Control", "Damage is ignored when determining unit Strength", "No movement cost to pillage", "[+20]% Strength <when fighting in [Friendly Land] tiles>"],
                 "promotions": ["Simple Man"],
 		"attackSound": "Stab",
 "civilopediaText": [
