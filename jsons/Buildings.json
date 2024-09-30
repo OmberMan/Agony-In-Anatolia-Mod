@@ -22,7 +22,7 @@
                 "food": 0,
                 "production": 1,
 		"uniques": ["[+1 Gold] from every specialist [in this city]", "Must be on [River]",
-			"[+2 Gold] <with [Silver]>", "[+2 Gold] <with [Gold Ore]>", "[+1 Production] from [Gold Ore] tiles [in this city]", "[+1 Production] from [Silver] tiles [in this city]"],
+			"[+1 Production] <with [Silver]>", "[+1 Production] <with [Gold Ore]>", "[+1 Production, +1 Gold] from [Gold Ore] tiles [in this city]", "[+1 Production, +1 Production] from [Silver] tiles [in this city]"],
 	       	"requiredTech": "Currency"
 	},	
         {
@@ -76,6 +76,7 @@
 		"name": "Phrygian Forge",
 "replaces": "Forge",
 		"uniqueTo": "Phrygia",
+		"specialistSlots": {"Artist": 1},
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredNearbyImprovedResources": ["Iron"],
@@ -88,6 +89,7 @@
 		"name": "Phrygian Mint",
 		"maintenance": 0,
 "replaces": "Mint",
+	"specialistSlots": {"Artist": 1},
 		"uniqueTo": "Phrygia",
 		"requiredNearbyImprovedResources": ["Gold Ore", "Silver"],
 		"hurryCostModifier": 25,
