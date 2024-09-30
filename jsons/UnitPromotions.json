@@ -11,4 +11,40 @@
 		"name": "Good as Gold",
 		"uniques": ["[+15]% Strength <during a Golden Age>"]
 	},
+	{
+        "name": "Poisoned Tips",
+        "uniques": ["[Target Unit] gains the [Poisoned!] status for [4] turn(s) <with [67]% chance> <upon damaging a [{[non-[Armor]]} {Land}] unit>"]
+    },
+			{
+        "name": "Poisoned!",
+        "uniques": ["[This Unit] takes [8] damage <upon ending a turn in a [non-[City center]] tile>"]
+    },
+	{
+	"name": "Scorching",
+        "uniques": ["[Target Unit] gains the [Burning!] status for [2] turn(s) <with [20]% chance> <upon damaging a [Land] unit>", "[Target Unit] gains the [Fire on Deck!] status for [2] turn(s) <with [30]% chance> <upon damaging a [Water] unit> <when attacking>"]
+	},
+	{
+        "name": "Burning!",
+        "uniques": ["[This Unit] takes [25] damage <upon ending a turn in a [non-[Coastal]] tile> <with [75]% chance>", "[-25]% Strength"]
+    },
+	{
+        "name": "Fire on Deck!",
+        "uniques": ["[This Unit] takes [20] damage <upon ending a turn in a [Water] tile>"]
+    },
+		{
+        "name": "Shock and Awe",
+        "uniques": ["[Target Unit] gains the [Disoriented!] status for [2] turn(s) <with [20]% chance> <upon damaging a [Land] unit>", "[Target Unit] gains the [Disorganized!] status for [1] turn(s) <with [10]% chance> <upon damaging a [Land] unit> <when attacking>"]
+    },
+	{
+        "name": "Shock and Awe II",
+        "uniques": ["[Target Unit] gains the [Disoriented!] status for [2] turn(s) <with [30]% chance> <upon damaging a [Land] unit>", "[Target Unit] gains the [Disorganized!] status for [1] turn(s) <with [15]% chance> <upon damaging a [Land] unit> <when attacking>"]
+    },
+		{
+        "name": "Disoriented!",
+        "uniques": ["[-20]% Strength <when attacking>", "[-1] Movement"]
+    },
+		{
+        "name": "Disorganized!",
+        "uniques": ["[-30]% Strength", "Cannot Move"]
+		}
 ]
