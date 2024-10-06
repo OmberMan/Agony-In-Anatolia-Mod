@@ -12,6 +12,14 @@
 		"uniques": ["[+15]% Strength <during a Golden Age>"]
 	},
 	{
+        "name": "Sundering",
+        "uniques": ["[Target Unit] gains the [Sundered!] status for [2] turn(s) <with [40]% chance> <upon damaging a [Land] unit>"]
+    },
+			{
+        "name": "Sundered!",
+        "uniques": ["[-20]% Strength <when defending> <vs [Melee] units>"]
+    },
+	{
         "name": "Poisoned Tips",
         "uniques": ["[Target Unit] gains the [Poisoned!] status for [4] turn(s) <with [67]% chance> <upon damaging a [{[non-[Armor]]} {Land}] unit>"]
     },
