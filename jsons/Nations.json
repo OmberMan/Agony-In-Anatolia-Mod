@@ -109,7 +109,7 @@
 "favoredReligion":"Zoroastrianism",
     "startIntroPart1":"Apparently peak Anatolians, these guys almost managed to distinguish themselves. I do wonder if Croesus could've actually advised Cyrus the Great.",
     "tradeRequest":"[Money makes the world go around]\n          [Money makes the world go around]\n\n  All this scratching's making me rich.",
-    "uniques": ["[+25]% [Gold] [in all cities]", "[+1 Gold, +1 Production] from all [Gold] buildings <in cities with a [Mint]>", "[+1 Gold] from [River] tiles [in all cities]", "[+1 Culture, +1 Happiness, +1 Science] per every [250] [Gold]"],
+    "uniques": ["[+25]% [Gold] [in all cities]", "[+1 Gold, +1 Production] from all [Gold] buildings <in cities with a [Mint]>", "[+1 Gold] from [River] tiles [in all cities]", "[+1 Culture, +2 Happiness, +3 Gold, +1 Science] per every [100] [Gold]"],
     "uniqueText":"+25% [Gold] in all cities. +1 [Gold] & +1 [Production] from [Gold] buildings in cities with a Mint, and +1 [Gold] from River Tiles. \nGain a small stat bonus the more [Gold] you possess.",
     "uniqueName":"Rich as Croesus"
   },
