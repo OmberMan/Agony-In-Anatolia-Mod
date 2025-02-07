@@ -5,7 +5,7 @@
                 "replaces": "Grand Temple",
                 "uniqueTo": "Phrygia",
 		"culture": 1,
-		"faith": 5,
+		"faith": 6,
 		"uniques": ["Requires a [Temple] in all cities", "Cost increases by [30] per owned city", "[+1 Faith] from [Land] tiles without [Improvement] [in this city]", "Can only be built [in all cities in which the majority religion is a major religion]",
 			"[+100]% Natural religion spread [in this city]", "Hidden when religion is disabled", "[+20]% growth [in this city]", "[-20]% Culture cost of natural border growth [in this city]", "All newly-trained [Melee] units [in this city] receive the [Drill I] promotion <with [33]% chance>"],
 	       	"requiredTech": "Philosophy",
@@ -17,21 +17,21 @@
                 "maintenance": 2,
                 "replaces": "Water Mill",
                 "uniqueTo": "Lydia",
-		"specialistSlots": {"Merchant": 1},
+		"specialistSlots": {"Engineer": 1},
   "percentStatBonus": {"gold": 10},
                 "food": 0,
                 "production": 1,
 		"uniques": ["[+1 Gold] from every specialist [in this city]", "Must be on [River]",
-			"[+1 Production] <with [Silver]>", "[+1 Production] <with [Gold Ore]>", "[+1 Production, +1 Gold] from [Gold Ore] tiles [in this city]", "[+1 Production, +1 Production] from [Silver] tiles [in this city]"],
+			"[+1 Production] <with [Silver]>", "[+1 Production] <with [Gold Ore]>"],
 	       	"requiredTech": "Currency"
 	},	
         {
 		"name": "Isaurian Holdout",
 		"replaces": "Walls",
-		"cost": 100,
+		"cost": 75,
 		"uniqueTo": "Isauria",
 		"cityStrength": 8,
-		"cityHealth": 80,
+		"cityHealth": 60,
 		"hurryCostModifier": 5,
 		"requiredTech": "Mining",
 		"uniques": ["Destroyed when the city is captured", "Excess Food converted to Production when under construction", "[+30]% Food is carried over after population increases [in this city] <when at war>"]
@@ -69,7 +69,7 @@
                 "specialistSlots": {"Artist": 1},
                 "percentStatBonus": {"gold": 10},
                 "hurryCostModifier": 25,
-                "uniques": ["[+1 Gold] from [Gold Ore] tiles [in this city]", "[+1 Gold] from [Silver] tiles [in this city]", "[+1 Gold] from [Copper] tiles [in this city]", "[+1 Culture, +1 Gold] from each Trade Route", "[-15]% [Gold] <if [Brass Mint] is constructed in at least [5] of [in all cities] cities>"],
+                "uniques": ["[+1 Gold] from [Gold Ore] tiles [in this city]", "[+1 Gold] from [Silver] tiles [in this city]", "[+1 Gold] from [Copper] tiles [in this city]", "[-15]% [Gold] <if [Brass Mint] is constructed in at least [5] of [in all cities] cities>"],
                 "requiredTech": "Currency"
         },
 	{
